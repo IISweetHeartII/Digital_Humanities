@@ -1,0 +1,3452 @@
+Name,RawCentrality
+Plato,738
+Aristotle,645
+Cicero,326
+Averroes,284
+Voltaire,261
+Confucius,259
+Ibn Khaldun,248
+Thomas Aquinas,247
+Anselm,237
+Mozi,232
+Al-Ghazali,224
+Mencius,217
+Immanuel Kant,211
+Al-Farabi,207
+David Hume,206
+Socrates,202
+Bertrand Russell,200
+Avicenna,187
+Arius,184
+Solomon,183
+Bonaventure,177
+Karl Marx,176
+Thucydides,169
+Blaise Pascal,167
+Plotinus,165
+Xenophon,163
+Augustine of Hippo,161
+Tertullian,159
+Friedrich Nietzsche,156
+Han Fei,155
+Sun Tzu,154
+Bede,153
+William James,152
+Proclus,152
+William of Ockham,151
+Meister Eckhart,146
+Chanakya,144
+John Locke,142
+Roger Bacon,140
+Edmund Husserl,140
+Alvin Plantinga,139
+Baruch Spinoza,136
+Pseudo-Dionysius the Areopagite,136
+Henry of Ghent,136
+Nicholas Wolterstorff,131
+Al-Kindi,131
+Porphyry,128
+Peter van Inwagen,123
+Duns Scotus,123
+Marsilio Ficino,122
+Peter Lombard,120
+Martin Heidegger,119
+Henri Bergson,119
+Edward N. Zalta,118
+Gorgias,116
+Nicolas Malebranche,115
+Albertus Magnus,115
+Isaac Newton,114
+Vladimir Solovyov,113
+Giovanni Pico della Mirandola,112
+Adi Shankara,112
+Jean-Luc Marion,111
+Ludwig Wittgenstein,109
+Pythagoras,109
+G. E. Moore,109
+Gabriel Marcel,109
+Alcuin,108
+Lucretius,107
+Alasdair MacIntyre,106
+Gottlob Frege,106
+Galen,105
+Lucian,105
+Valluvar,102
+Xenocrates,102
+Karl Popper,102
+Daniel Dennett,101
+Parmenides,101
+Nicholas of Cusa,100
+Thomas More,100
+Ambrose,99
+Chrysippus,99
+Arcesilaus,98
+Robert Grosseteste,98
+Menedemus,97
+Ramon Llull,97
+Carneades,97
+Apuleius,97
+Saul Kripke,96
+Isidore of Seville,96
+Iamblichus,95
+Martin Buber,95
+Clement of Alexandria,94
+Martin Luther,93
+Philo of Larissa,93
+Ammonius Hermiae,92
+Speusippus,92
+Abhinavagupta,91
+Syrianus,91
+Hippias,90
+Ammonius Saccas,90
+Damascius,90
+Alcinous,90
+Numenius of Apamea,90
+Leo Strauss,89
+Sigmund Freud,89
+Boetius of Dacia,88
+Epicurus,88
+Paul of Venice,87
+Pyrrho,87
+Theophrastus,86
+Michael Dummett,85
+Democritus,85
+Thomas Carlyle,85
+Peter Geach,83
+Alonzo Church,83
+Vasubandhu,83
+Roderick Chisholm,82
+Richard Swinburne,81
+Fakhr al-Din al-Razi,81
+John Stuart Mill,81
+Albert Einstein,80
+Pierre Gassendi,80
+Frithjof Schuon,80
+Josiah Royce,80
+William Lane Craig,79
+John of Damascus,79
+Aristides,79
+Mulla Sadra,79
+Dante Alighieri,78
+Elias,78
+Ralph Waldo Emerson,77
+Antony Flew,77
+John Dewey,77
+Arthur Schopenhauer,76
+Alexander Pruss,76
+Bernard of Clairvaux,75
+Adam Smith,74
+Cyril of Alexandria,74
+Tommaso Campanella,74
+Jacques Maritain,74
+Hilary Putnam,74
+Ibn Arabi,74
+Frederick Copleston,73
+Ibn Hazm,73
+Giordano Bruno,73
+Noam Chomsky,73
+Ernst Cassirer,73
+Ramanuja,72
+Paul Tillich,72
+Peter Singer,72
+Thales,72
+Sextus Empiricus,71
+Karl Rahner,71
+Giambattista Vico,71
+Kapila,70
+Hasdai Crescas,70
+Gersonides,70
+Francis of Assisi,70
+Gregory of Nyssa,70
+Ibn Daud,70
+Hildegard of Bingen,69
+Athanasius of Alexandria,69
+Friedrich Schleiermacher,69
+William Whewell,68
+Charles Sanders Peirce,68
+Rudolf Carnap,68
+Ptolemy,68
+Ernst Haeckel,68
+Alfred North Whitehead,67
+Pope Gregory I,67
+Karl Barth,67
+Charles Darwin,67
+Mircea Eliade,66
+Ludwig Feuerbach,66
+Paul Feyerabend,66
+John Henry Newman,65
+Epictetus,65
+Alexander of Aphrodisias,65
+Francis Bacon,65
+Francisco de Vitoria,65
+Posidonius,65
+Charles Hartshorne,65
+Saadia Gaon,65
+Auguste Comte,64
+Edith Stein,64
+William Alston,64
+Protagoras,64
+Bas van Fraassen,64
+Anthony Kenny,64
+Zeno of Sidon,64
+George Berkeley,64
+Thomas Merton,64
+Jean Vanier,63
+Baron d'Holbach,63
+Ibn Bajjah,63
+George Santayana,63
+Mao Zedong,63
+Crispin Wright,63
+Anaxagoras,63
+Wilfrid Sellars,62
+Luis de Molina,62
+Sun Yat-sen,62
+Pierre Teilhard de Chardin,62
+Gilbert Ryle,62
+Marcus Aurelius,62
+Reinhold Niebuhr,62
+Miskawayh,62
+Rabanus Maurus,62
+Longinus,61
+Jeremy Bentham,61
+Johannes Tauler,61
+Galileo Galilei,61
+Nagarjuna,61
+Emanuel Swedenborg,61
+Peter Kreeft,61
+Dietrich von Hildebrand,61
+Henry More,61
+Ernst Troeltsch,61
+Maurice Blondel,60
+Jaimini,60
+Bernard Lonergan,60
+Walter Hilton,60
+Rudolf Bultmann,60
+Joachim of Fiore,60
+Ibn Masarra,60
+Zeno of Citium,60
+Heraclides Ponticus,59
+Ralph Cudworth,59
+Thomas Cajetan,59
+Clitomachus,59
+Dharmakirti,59
+Alice von Hildebrand,59
+Desiderius Erasmus,59
+Rudolf Otto,59
+Alice Crary,58
+Novalis,58
+Apollonius of Tyana,58
+Walter Kaufmann,58
+Carl Gustav Hempel,58
+Buddhaghosa,58
+Empedocles,58
+Max Weber,58
+Strato of Lampsacus,57
+Thomas Hobbes,57
+Albinus,57
+Otto Neurath,57
+Zhu Xi,57
+Panaetius,56
+Roman Ingarden,56
+David Kaplan,56
+Cleanthes,56
+Vedanta Desika,56
+C. D. Broad,56
+Lev Shestov,56
+Ian Hacking,56
+Jean-Paul Sartre,55
+Hans Reichenbach,55
+Jacques Derrida,55
+Richard Rorty,55
+Archytas,55
+Bernard Bolzano,55
+Calcidius,54
+Aenesidemus,54
+Hippocrates,54
+Deng Xi,54
+Anaximander,54
+Solomon Ibn Gabirol,54
+Hippasus,53
+David the Invincible,53
+Emil Brunner,53
+Theodoric of Freiberg,52
+Gilles Deleuze,52
+Crantor,52
+Afrikan Spir,52
+Robert Merrihew Adams,52
+Vladimir Lenin,52
+Gaius Marius Victorinus,52
+Metrodorus of Stratonicea,51
+William Wollaston,51
+John Rawls,51
+Aedesius,51
+Chrysanthius,51
+Kanada,51
+Shang Yang,50
+Hegesias of Cyrene,50
+John McDowell,50
+Alhazen,50
+Charles Taylor,50
+Jean Buridan,50
+Han Yu,50
+Antisthenes,50
+Robert Nozick,49
+Li Si,49
+John Peckham,49
+Philostratus,48
+Kang Youwei,48
+Mahavira,48
+Cheng Yi,47
+Feng Youlan,47
+Carl Jung,47
+Stilpo,47
+Leucippus,47
+Emmanuel Levinas,47
+Thrasymachus,47
+Donald Davidson,47
+Michael Tye,47
+Wang Fuzhi,46
+Dong Zhongshu,46
+Alexander of Hales,46
+Friedrich Engels,46
+Metrodorus of Lampsacus,46
+Giles of Rome,46
+John Searle,46
+Susan Haack,46
+Cheng Hao,46
+Thomas Reid,46
+Mou Zongsan,45
+Diogenes of Oenoanda,45
+Timon of Phlius,45
+Nicole Oresme,45
+Robert Audi,45
+Mahatma Gandhi,45
+P. F. Strawson,45
+Bernard of Chartres,44
+Archimedes,44
+Timothy Williamson,44
+Sengzhao,44
+Vincent Ferrer,44
+David Chalmers,44
+Huang Zongxi,44
+Ernest Sosa,44
+Gautama Buddha,44
+Rudolf Steiner,43
+Prodicus,43
+Dominicus Gundissalinus,43
+Diodorus Cronus,43
+Max Planck,43
+Euclid of Megara,43
+Marsilius of Inghen,43
+Walter Benjamin,43
+Derek Parfit,43
+Thomas Jefferson,43
+Albert of Saxony,43
+Yajnavalkya,42
+Nicholas Rescher,42
+Asanga,42
+Moses Mendelssohn,42
+Favorinus,42
+Martin Luther King Jr.,42
+Michel Foucault,42
+Ikhwan al-Safa',42
+Martha Nussbaum,42
+Callicles,42
+Epimenides,42
+Hossein Nasr,42
+Shen Buhai,42
+Thomas Nagel,42
+Simone de Beauvoir,42
+Nelson Goodman,42
+Wilhelm Windelband,42
+Alfred Tarski,42
+Fred Dretske,42
+Godfrey of Fontaines,42
+Muhammad Iqbal,41
+Anniceris,41
+Hu Shih,41
+Zisi,41
+Zhang Yi,41
+Guan Zhong,41
+Zhiyi,41
+Wang Bi,41
+Linji Yixuan,41
+Edmund Gettier,41
+Cleobulus,40
+Raghunatha Siromani,40
+Franz Brentano,40
+Paul Churchland,40
+G. E. M. Anscombe,40
+Jaegwon Kim,40
+Jayanta Bhatta,40
+Hamid al-Din al-Kirmani,40
+Bernard Williams,40
+Shen Dao,40
+Alain de Lille,40
+Wang Yangming,39
+Lucius Annaeus Cornutus,39
+Maurice Merleau-Ponty,39
+Alan Turing,39
+Ch'ien Mu,39
+Khana,39
+Herbert Marcuse,39
+Li Kui,39
+Liang Qichao,39
+Vyasatirtha,38
+Leo Tolstoy,38
+Theano,38
+Hui Shi,38
+B. R. Ambedkar,38
+Patricia Churchland,38
+Li Ao,38
+Hannah Arendt,38
+Yang Xiong,38
+Patrick Suppes,37
+Zhang Dongsun,37
+Jayatirtha,37
+Zou Yan,37
+Cai Yuanpei,37
+Zichan,37
+Edmund Burke,37
+Kabir,36
+Tsang Lap Chuen,36
+Herbert Spencer,36
+Zhou Guoping,36
+Moritz Schlick,36
+Gaozi,36
+Pierre Duhem,36
+Qiu Renzong,36
+Su Qin,36
+Willard Van Orman Quine,35
+R. M. Hare,35
+Michael Polanyi,35
+Hans-Georg Gadamer,34
+Shinran,34
+Benjamin Franklin,34
+Gottfried Leibniz,34
+Abraham ibn Ezra,34
+Imre Lakatos,34
+Friedrich Waismann,33
+Antiphon,33
+Nichiren,33
+Wilhelm Wundt,33
+Alexander Bain,33
+Robert Brandom,33
+Jacques Lacan,33
+Ashtavakra,33
+Samuel Ibn Tibbon,33
+Naropa,33
+Bodhidharma,32
+Giuseppe Peano,32
+Peter Kropotkin,32
+Agastya,32
+John Adams,32
+Philippa Foot,31
+Barry Stroud,31
+Norman Malcolm,31
+Russ Shafer-Landau,31
+Jaakko Hintikka,31
+Nagasena,31
+Frank P. Ramsey,31
+Graham Priest,31
+Larry Laudan,31
+Jerry Fodor,31
+Pierre-Joseph Proudhon,31
+Wilhelm Dilthey,30
+Nancy Cartwright,30
+Chaitanya Mahaprabhu,30
+Bahya ibn Paquda,30
+Alfred Russel Wallace,30
+Uddalaka Aruni,30
+Ibn Tufail,30
+Peter Galison,30
+Moses Hess,29
+Zeno of Elea,29
+Christine Korsgaard,29
+Abu Ma'shar al-Balkhi,29
+Mikhail Bakunin,29
+Keith Donnellan,29
+Morton White,29
+J. J. C. Smart,28
+Lamennais,28
+Cora Diamond,28
+Tom Regan,28
+Ernst Mach,28
+Michael Walzer,28
+Jean Piaget,28
+Casimir Lewy,28
+Simplicius of Cilicia,28
+Ruth Millikan,28
+Ernest Nagel,28
+Johann Gottlieb Fichte,27
+Abu Hatim al-Razi,27
+Denis Diderot,27
+Johann Wolfgang von Goethe,27
+Guy Debord,27
+Tyler Burge,27
+Ibn Miskawayh,27
+Nathan Salmon,27
+Henry David Thoreau,26
+Umberto Eco,26
+Joseph Soloveitchik,26
+David Malet Armstrong,26
+Abdolkarim Soroush,26
+Joseph Solomon Delmedigo,26
+Salomon Maimon,26
+James Mill,26
+Cleomedes,26
+Al-Ash'ari,26
+Thomas Paine,26
+Geminus,26
+Steven Best,25
+Mario Bunge,25
+Thomas Lepeltier,25
+Ned Block,25
+James Rachels,25
+Ibn Kammuna,25
+Oscar Horta,25
+Francisco Sanches,25
+David Sztybel,25
+Mostafa Malekian,25
+Reza Davari Ardakani,25
+Antonio Gramsci,25
+Gangesha Upadhyaya,25
+Taha Abdurrahman,25
+Albert Camus,25
+John Calvin,25
+Carol J. Adams,25
+Daniel Dombrowski,25
+Ibn Furak,25
+Paracelsus,25
+Isaac Cardoso,25
+Isaac Orobio de Castro,25
+Isaiah Berlin,25
+Marvin Minsky,25
+Themistius,25
+Mary Midgley,25
+Isocrates,25
+Alcibiades,24
+Robert Boyle,24
+Aristoxenus,24
+Sue Donaldson,24
+Andy Clark,24
+Syed Muhammad Naquib al-Attas,24
+Samuel Johnson,24
+Leon Trotsky,24
+Nasir al-Din Tusi,24
+Tom Beauchamp,24
+Jalal al-Din al-Dawani,24
+Gary L. Francione,24
+Al-Baqillani,24
+Ibn Tzaddik,24
+John Hadley,23
+Dogen,23
+Alvin Goldman,23
+Anil Gupta,23
+Amartya Sen,23
+Yi I,23
+Markandeya,23
+Shvetashvatara,23
+Clare Palmer,22
+Mazdak,22
+Cass Sunstein,22
+Donald T. Campbell,22
+Henry George,22
+Will Kymlicka,22
+Simone Weil,22
+Pierre Bayle,22
+John Maynard Keynes,22
+Dale Jamieson,21
+Gaston Bachelard,21
+James Pryor,21
+Karl Christian Friedrich Krause,21
+Jessica Pierce,21
+David DeGrazia,21
+Gary Varner,21
+Bernard Rollin,21
+Leonard Nelson,21
+John von Neumann,21
+Jeff Sebo,21
+William Blake,21
+Carl Schmitt,21
+Ahmad ibn Hanbal,21
+Keith DeRose,21
+Steve F. Sapontzis,21
+David Ricardo,21
+Muhammad Abduh,21
+Mark Rowlands,21
+Kristin Andrews,20
+Mary Wollstonecraft,20
+David Benatar,20
+Gotthold Ephraim Lessing,20
+Georges Bataille,20
+Alexander Herzen,20
+Rosa Luxemburg,20
+Francis Hutcheson,20
+Hermann Lotze,20
+Christian Wolff,20
+Catia Faria,20
+Laurence BonJour,20
+Karl Kautsky,20
+Cornel West,20
+Paola Cavalieri,20
+Paul Deussen,20
+Samuel Taylor Coleridge,20
+Josephine Donovan,20
+Stephen R. L. Clark,20
+Hunayn ibn Ishaq,20
+Judith Butler,20
+Charles Fourier,20
+Herbert A. Simon,20
+Priscilla Cohn,20
+Daniel Kahneman,19
+Karl Jaspers,19
+Zongmi,19
+Abu Yaqub al-Sijistani,19
+Max Stirner,19
+Basava,19
+Pietro Pomponazzi,19
+Antonio Negri,19
+Julia Kristeva,19
+Jinul,19
+Sir William Hamilton,19
+Narahari Tirtha,19
+Oswald Spengler,18
+Al-Hilli,18
+Sri Aurobindo,18
+Fazang,18
+Vasishtha,18
+Georgi Plekhanov,18
+Angiras,18
+George Eliot,18
+Abraham Maslow,18
+Louis Althusser,18
+Andronicus of Rhodes,18
+Dugald Stewart,17
+Joseph Priestley,17
+Niels Bohr,17
+Eduard Bernstein,17
+David Hilbert,17
+Peter of Spain,17
+Moses ibn Ezra,17
+Rabindranath Tagore,17
+Hermann von Helmholtz,17
+Donald O. Hebb,17
+Victor Cousin,17
+Thomas Brown,17
+Eduard Von Hartmann,17
+Friedrich Hayek,17
+Henry Sidgwick,16
+John B. Watson,16
+Ayn Rand,16
+Alain Badiou,16
+Marquis de Sade,16
+Johann Gottfried Herder,16
+Alexander Bogdanov,16
+William Godwin,16
+Oliver Wendell Holmes Jr.,16
+Paul Edwards,16
+Lorenzo Valla,16
+Qusta ibn Luqa,16
+Cornelius Castoriadis,16
+Ludwig von Mises,16
+Murray Bookchin,16
+Max Scheler,16
+Jean Baudrillard,16
+Jonathan Edwards,16
+Emil Cioran,16
+Georg Cantor,15
+Bhoja,15
+Michel de Montaigne,15
+Abu al-Hakam al-Kirmani,15
+Fyodor Dostoevsky,15
+John Hick,15
+John Anderson,15
+Carl Linnaeus,15
+Friedrich Schiller,15
+Francisco Varela,15
+William Thompson,15
+Simeon ben Zemah Duran,15
+George Boole,15
+Arthur Koestler,15
+Abu Zayd al-Balkhi,15
+Benedetto Croce,15
+bell hooks,15
+Judah Ben Samuel of Regensburg,15
+Claude Lefort,15
+Henri Lefebvre,15
+Pierre Leroux,15
+Henry Suso,15
+Michael Hardt,15
+Leslie Stephen,15
+Judah Messer Leon,15
+Heinrich Rickert,15
+Sarvepalli Radhakrishnan,14
+Thierry of Chartres,14
+Stephen Toulmin,14
+Thomas Henry Huxley,14
+Karl Leonhard Reinhold,14
+Gianni Vattimo,14
+Nancy Fraser,14
+Thomas Hodgskin,14
+Kurt Lewin,14
+Richard Price,14
+Eusebius of Caesarea,14
+Ferdinand de Saussure,14
+Lysander Spooner,14
+Donna Haraway,14
+Percy Williams Bridgman,14
+Hermann Cohen,14
+Luce Irigaray,14
+Masao Abe,14
+Isaac ben Moses Arama,14
+B. F. Skinner,14
+Udayana,14
+Uisang,14
+Deirdre McCloskey,14
+Benjamin Tucker,14
+Stanley Cavell,14
+Akka Mahadevi,14
+Jacopo Zabarella,14
+Ivor Grattan-Guinness,14
+Pierre Paul Royer-Collard,13
+David Hartley,13
+Henry Corbin,13
+Joseph Butler,13
+Richard Bentley,13
+C. S. Lewis,13
+Clarence Irving Lewis,13
+Christopher Hitchens,13
+Wilhelm von Humboldt,13
+John of Salisbury,13
+Ludwig Boltzmann,13
+Nikolai Berdyaev,13
+Roland Barthes,13
+Theodor Adorno,13
+Giacomo Leopardi,13
+Abu Tammam,13
+Milton Friedman,13
+Hugo Grotius,13
+James Ward,13
+Georg Simmel,13
+Samuel Clarke,13
+Colin McGinn,13
+Nicolai Hartmann,13
+Sandra Harding,13
+Christiaan Huygens,13
+Michel Onfray,13
+Rachel Carson,13
+Nicolaus Copernicus,13
+Jesus of Nazareth,13
+Marquis de Condorcet,13
+Johannes Kepler,13
+Max Horkheimer,13
+Alan Watts,13
+Erik Erikson,13
+A. C. Grayling,13
+Padmanabha Tirtha,13
+Ferdinand Lassalle,13
+Pillai Lokacharya,13
+Siddheshwar,12
+Petrarch,12
+Jan Hus,12
+Richard Avenarius,12
+Yi Hwang,12
+Gabriel Bonnot de Mably,12
+Motoori Norinaga,12
+Giorgio Agamben,12
+Werner Heisenberg,12
+Wendy Brown,12
+Lawrence Kohlberg,12
+Patricia Hill Collins,12
+Frederick C. Beiser,12
+Jonathan Barnes,12
+Anacharsis,12
+Erich Fromm,12
+Hermann Weyl,12
+Liu Shaoqi,12
+Al-Mawardi,12
+Kazimierz Twardowski,12
+William of Conches,12
+Do-ol,12
+Seneca the Younger,12
+Bruce Lee,12
+John Wyclif,12
+Marin Mersenne,12
+Peter Wessel Zapffe,12
+Fujiwara Seika,12
+James Clerk Maxwell,12
+Robert Fludd,12
+Robert Stern,12
+Sidney Hook,12
+Parashara,11
+William Paley,11
+George Henry Lewes,11
+Friedrich Heinrich Jacobi,11
+Thomas Bradwardine,11
+Val Plumwood,11
+James Mark Baldwin,11
+David Bohm,11
+Margaret Mead,11
+Xun Zi,11
+George Herbert Mead,11
+Paul Carus,11
+Charles Babbage,11
+Joseph Schumpeter,11
+Catharine A. MacKinnon,11
+Bryan Magee,11
+Charles W. Morris,11
+Peter Carruthers,11
+Richard Dedekind,11
+John Ray,11
+Dietrich Bonhoeffer,11
+Augustus De Morgan,11
+Jean-Luc Nancy,11
+Karl Kraus,11
+Jiddu Krishnamurti,11
+Hicetas,11
+Dirghatamas,11
+Nancy Bauer,10
+Benson Mates,10
+Malcolm X,10
+Heinrich Cornelius Agrippa,10
+Georges Canguilhem,10
+Wilhelm Reich,10
+Ivan Illich,10
+Arthur de Gobineau,10
+Raymond Aron,10
+Rudolf Christoph Eucken,10
+Jean-Baptiste Lamarck,10
+Jean van Heijenoort,10
+Johannes Scotus Eriugena,10
+Christopher Peacocke,10
+Barry Smith,10
+Ray Monk,10
+Joseph de Maistre,10
+Alexis de Tocqueville,10
+William Temple,10
+Julien Offray de La Mettrie,10
+Abd al-Jabbar ibn Ahmad,10
+George Armitage Miller,10
+Ernst Mayr,9
+Edward Caird,9
+H. L. A. Hart,9
+Kenneth Arrow,9
+Dan Sperber,9
+John Zerzan,9
+Friedrich Albert Lange,9
+William Mitchell,9
+Fred Feldman,9
+William Lycan,9
+John Eccles,9
+George Grote,9
+Johannes Bronkhorst,9
+Carl Stumpf,9
+Johann Friedrich Herbart,9
+Hans Jonas,9
+John Herschel,9
+Liezi,9
+Kuno Fischer,9
+Paul Goodman,9
+Erving Goffman,9
+Thomas Browne,9
+Ajita Kesakambali,9
+Pierre Bourdieu,9
+Angela Davis,9
+Marsilius of Padua,9
+Vilfredo Pareto,9
+Maurice Blanchot,9
+Johann Georg Hamann,9
+Robert Fogelin,9
+William Kingdon Clifford,9
+Vasugupta,9
+Eduard Zeller,9
+Andrea Cesalpino,9
+Gerard of Cremona,9
+Elisa Aaltola,9
+Friedrich Schelling,9
+Denis Dutton,9
+Roger Scruton,9
+Gerald Edelman,9
+Michel Weber,8
+Karen Barad,8
+Heinrich von Kleist,8
+John Selden,8
+Akshobhya Tirtha,8
+Aspasius,8
+William Law,8
+Frantz Fanon,8
+Herbert Feigl,8
+Ralph McInerny,8
+Karl Mannheim,8
+Bimal Krishna Matilal,8
+Sam Harris,8
+Abul A'la Maududi,8
+Gabriel Biel,8
+Mary Whiton Calkins,8
+Galen Strawson,8
+Rollo May,8
+Alexius Meinong,8
+Huey P. Newton,8
+Kwame Nkrumah,8
+Eudoxus of Cnidus,8
+Simon Critchley,8
+Eric Voegelin,8
+Hans Kelsen,8
+Chao Cuo,8
+Robert Flint,8
+Gustav Fechner,8
+R. G. Collingwood,8
+Edward Stillingfleet,8
+Gregory Bateson,8
+John Norris,8
+Pelagius,8
+Maria Montessori,8
+Ghosha,8
+Jean le Rond d'Alembert,8
+Francisco J. Ayala,8
+Monique Wittig,8
+Josef Pieper,8
+Roger Penrose,8
+Bruno Latour,8
+Charles E. Osgood,8
+Daniel Garber,8
+Paul E. Meehl,8
+Marshall McLuhan,8
+John Courtney Murray,8
+Justinian I,8
+Andrew Pyle,8
+Richard Popkin,8
+Norman Kretzmann,7
+Bruno Bauer,7
+Michael Ruse,7
+Thomas White,7
+John Corcoran,7
+Seyla Benhabib,7
+Ray Brassier,7
+John Lewis,7
+Warren Goldfarb,7
+Paul Gottfried,7
+Georges Rey,7
+Dana Scott,7
+F. H. Bradley,7
+Lord Monboddo,7
+Aleksandr Dugin,7
+Jean Hyppolite,7
+Garrett Hardin,7
+Ted Honderich,7
+Crates of Thebes,7
+James Griffin,7
+Richard J. Bernstein,7
+Origen of Alexandria,7
+John Marenbon,7
+H. Richard Niebuhr,7
+Jacob Burckhardt,7
+Ernst Zermelo,7
+Thomas Metzinger,7
+Franz Rosenzweig,7
+David Brewster,7
+Jean Wahl,7
+Hemachandra,7
+John Harris,7
+Je Tsongkhapa,7
+Peter Winch,7
+Domingo de Soto,7
+John Kenneth Galbraith,7
+William Hazlitt,7
+Ernst Bloch,7
+Jacques Ellul,7
+Eliot Deutsch,7
+David Papineau,7
+Jeff McMahan,7
+John Wisdom,7
+Ralph Barton Perry,7
+William Blackstone,7
+Peter Hacker,7
+Johann Heinrich Lambert,7
+Jean Gerson,7
+Shadworth Hodgson,7
+Robert Filmer,6
+May Sim,6
+John D. Caputo,6
+Joseph Levine,6
+John Campbell,6
+Niklas Luhmann,6
+John Macquarrie,6
+Susan Sontag,6
+James Martineau,6
+Charlotte Perkins Gilman,6
+Debra Nails,6
+Eleonore Stump,6
+Lewis Carroll,6
+Samuel Butler,6
+Frank Jackson,6
+David Sedley,6
+James Beattie,6
+Basilides,6
+David Wood,6
+John Richardson,6
+George Grant,6
+William Stanley Jevons,6
+Ratramnus,6
+Robert Kilwardby,6
+Jorge J. E. Gracia,6
+John Toland,6
+Benjamin Constant,6
+Witelo,6
+Kundakunda,6
+Gottschalk of Orbais,6
+Allan Bloom,6
+Richard Sorabji,6
+Jon Elster,6
+Pierre-Simon Laplace,6
+Gaudapadacharya,6
+D. Z. Phillips,6
+John Perry,6
+Moses Maimonides,6
+Julian Baggini,6
+Justus Lipsius,6
+Renn Dickson Hampden,6
+Marilyn McCord Adams,6
+Arthur Fine,6
+Adam Ferguson,6
+Stephen Gaukroger,6
+Clifford Geertz,6
+Hippolyte Taine,6
+Parshva,6
+Dieter Henrich,6
+Maine de Biran,6
+Kalevi Kull,6
+Robin Waterfield,6
+Vissarion Belinsky,6
+Alexander Rosenberg,6
+Peter Adamson,6
+Ronald Dworkin,6
+Amalananda,6
+Metrocles,6
+Parshvanatha,6
+Robert C. Solomon,6
+Bhartrhari,6
+William Calvert Kneale,6
+John Witherspoon,6
+Gregory Vlastos,6
+Rush Rhees,6
+Paul Benacerraf,5
+Georg Henrik von Wright,5
+Drucilla Cornell,5
+Allen W. Wood,5
+Stephen Cole Kleene,5
+Paul Oskar Kristeller,5
+Antiochus of Ascalon,5
+Philippe Van Parijs,5
+Michael Friedman,5
+James Franklin,5
+Viktor Frankl,5
+Wendell Berry,5
+Mikhail Bakhtin,5
+Richard Boyd,5
+Dignaga,5
+John Lachs,5
+Ian Barbour,5
+C. Stephen Evans,5
+Harvey Mansfield,5
+John Austin,5
+Charles Taliaferro,5
+Robert B. Talisse,5
+Borden Parker Bowne,5
+Bernard Bosanquet,5
+Peter Carravetta,5
+E. J. Lowe,5
+William Irwin,5
+Gregor Mendel,5
+Brian Leiter,5
+A. A. Long,5
+Fredric Jameson,5
+Morris Lazerowitz,5
+James M. Buchanan,5
+Ibn al-Rawandi,5
+John Broome,5
+Edwin Bryant,5
+Arnold Ruge,5
+Dwight Macdonald,5
+Bernard Stiegler,5
+George Boolos,5
+Samuel Pufendorf,5
+Joseph Margolis,5
+Georges Sorel,5
+Jacques Barzun,5
+Bernhard Riemann,5
+George Croom Robertson,5
+Henry Brougham,5
+Axel Honneth,5
+Hans Vaihinger,5
+Max Black,5
+Joseph Ratzinger,5
+William of Moerbeke,5
+George Reisman,5
+Avital Ronell,5
+Holmes Rolston III,5
+Howard Robinson,5
+David Ray Griffin,5
+Robert Bernasconi,5
+Alain de Benoist,5
+Marjorie Grene,5
+Richard of St. Victor,5
+Anatol Rapoport,5
+Arthur Prior,5
+Thomas J. J. Altizer,5
+Alice Ambrose,5
+Alexander Altmann,5
+John Deely,5
+Jonathan Bennett,5
+Richard Hooker,5
+Gilbert of Poitiers,5
+Gregory of Rimini,5
+Hubert Dreyfus,5
+Christian Hermann Weisse,5
+Pierre Hadot,5
+Paul de Man,5
+John B. Cobb,5
+David Bentley Hart,5
+Gilbert Harman,5
+Hans Sluga,5
+Giovanni Gentile,5
+Harriet Martineau,5
+Eugene Gendlin,5
+Peter Sloterdijk,5
+Philipp Melanchthon,5
+Iris Murdoch,5
+J. P. Moreland,5
+Stanley Hauerwas,5
+Lev Vygotsky,5
+Julius Evola,5
+Pingala,5
+Mary Baker Eddy,5
+David Edmonds,5
+Pandurang Shastri Athavale,5
+Friedrich Adolf Trendelenburg,5
+Paul Weiss,5
+Lord Kames,5
+Gisela Striker,5
+James McCosh,5
+Jacques Rohault,5
+Philippe Lacoue-Labarthe,4
+Benjamin Whichcote,4
+Olympiodorus the Younger,4
+Michael Lou Martin,4
+Thoralf Skolem,4
+John Cook Wilson,4
+Hans Cornelius,4
+Sissela Bok,4
+Jon Barwise,4
+Silvia Federici,4
+F. C. S. Schiller,4
+Vasily Rozanov,4
+Michael Huemer,4
+David Stove,4
+Catherine Malabou,4
+Jacob Friedrich von Abel,4
+John Allen,4
+Adolf Reinach,4
+Anna-Teresa Tymieniecka,4
+Hincmar,4
+J. N. Findlay,4
+George Boas,4
+Paul Watzlawick,4
+Paul Virilio,4
+Brian Barry,4
+William H. Gass,4
+Northrop Frye,4
+Isaac Levi,4
+Xenophanes of Colophon,4
+Richard Taylor,4
+George Campbell,4
+Thomas Szasz,4
+Benjamin Collins Brodie,4
+Ibn al-Tayyib,4
+Friedrich von Schlegel,4
+L. Gordon Graham,4
+Asclepiades of Bithynia,4
+Anaxarchus,4
+Anthony Gottlieb,4
+Jean Jacques Rousseau,4
+Martha Kneale,4
+Irving Kristol,4
+Jean Bricmont,4
+Jeremy Waldron,4
+Kazimierz Ajdukiewicz,4
+Hao Wang,4
+Ludwig von Bertalanffy,4
+George Yancy,4
+Leopold Kronecker,4
+Philip Kitcher,4
+Yang Chu,4
+Keith Ward,4
+Antoine Arnauld,4
+Joxe Azurmendi,4
+Christian von Ehrenfels,4
+Emil du Bois-Reymond,4
+Jean Bethke Elshtain,4
+Richard Cumberland,4
+Raymond Smullyan,4
+Vatsyayana,4
+John Maynard Smith,4
+Michael Williams,4
+Fritz Mauthner,4
+Jason Stanley,4
+Gayatri Chakravorty Spivak,4
+Judith N. Shklar,4
+Wing-tsit Chan,4
+Peter Godfrey-Smith,4
+Ernst von Glasersfeld,4
+Christine de Pizan,4
+Walter Sinnott-Armstrong,4
+Lloyd P. Gerson,4
+Allan Gibbard,4
+Juan de Mariana,4
+D. V. Gundappa,4
+Philipp Frank,4
+Makkhali Gosala,4
+Ernest Gellner,4
+Melissus of Samos,4
+Miguel de Unamuno,4
+John Venn,4
+Bernardino Telesio,4
+Elliott Sober,4
+Adelard of Bath,4
+Georges Florovsky,4
+Robert Wilson,4
+John Daniel Wild,4
+Quentin Meillassoux,4
+Brian McGuinness,4
+Maitreyi,4
+Molefi Kete Asante,4
+Richard Cartwright,4
+Stuart Hampshire,4
+Allen Newell,4
+Kai Nielsen,4
+Otto Weininger,4
+Byung-Chul Han,4
+Sayyid Qutb,4
+Joseph Agassi,4
+Susanne Bobzien,4
+Margaret Boden,4
+Simon Blackburn,4
+Joshua Cohen,4
+Walter Burley,4
+Seth Benardete,4
+George of Trebizond,4
+Michael Oakeshott,4
+Cesare Cremonini,4
+Graham Oppy,4
+Hugh of St Victor,4
+Jacobus Arminius,4
+Jean Bodin,4
+Gerolamo Cardano,4
+Richard Shusterman,4
+Matthew of Aquasparta,4
+Richard Posner,4
+Vincent of Beauvais,4
+Stanley Rosen,4
+Martin Davies,4
+W. K. C. Guthrie,4
+John Woods,4
+Roger T. Ames,4
+Mary Daly,4
+Robert Reich,4
+William L. Rowe,4
+William Ralph Inge,4
+John Gray,4
+Gary Gutting,4
+Paul Guyer,4
+Robert Paul Wolff,3
+Garrett Birkhoff,3
+Hans Blumenberg,3
+Jean Beaufret,3
+Lopamudra,3
+Amos N. Wilson,3
+Ilsetraut Hadot,3
+John Haldane,3
+William Ernest Hocking,3
+Bernard R. Goldstein,3
+Robert E. Goodin,3
+Aron Gurwitsch,3
+Henry James Sr.,3
+William Ernest Johnson,3
+Leslie Green,3
+Nishida Kitaro,3
+Charles Guignon,3
+Kurt Grelling,3
+Michael Ghiselin,3
+Graham Harman,3
+Albrecht Wellmer,3
+Philip P. Wiener,3
+Albert Borgmann,3
+Zengzi,3
+Mary Warnock,3
+Abu al-Hudhayl,3
+Jules Vuillemin,3
+Mark Alan Walker,3
+Zygmunt Bauman,3
+Andrew Bowie,3
+May Brodbeck,3
+Jason Barker,3
+Candrakirti,3
+Peter Unger,3
+J. O. Urmson,3
+Louis Couturat,3
+John Macmurray,3
+Henry Longueville Mansel,3
+Arnold Gehlen,3
+Stephen Hicks,3
+Leon Henkin,3
+Arthur Eddington,3
+Justus Buchler,3
+Myles Burnyeat,3
+Kurt Baier,3
+Hassan al-Banna,3
+Joseph Campbell,3
+Claudia Card,3
+Kim Sterelny,3
+Hans Joas,3
+Marilyn Frye,3
+Don Ihde,3
+Terence Irwin,3
+Edgar S. Brightman,3
+Robert Maynard Hutchins,3
+Thomas Sowell,3
+Edward S. Casey,3
+Abner of Burgos,3
+Vere Claiborne Chappell,3
+William Chittick,3
+A. H. Armstrong,3
+Yves Simon,3
+Gilbert Simondon,3
+Peter Simons,3
+Herman of Carinthia,3
+C. West Churchman,3
+Justin Clemens,3
+Michel Serres,3
+Ali Shariati,3
+Richard Kearney,3
+Michael Frede,3
+Brand Blanshard,3
+Madhava Tirtha,3
+Lucio Colletti,3
+James H. Cone,3
+Alan Ross Anderson,3
+Pierre d'Ailly,3
+Abraham Robinson,3
+Newton da Costa,3
+Don Cupitt,3
+Joseph Raz,3
+Richard Rufus,3
+Dominique Lecourt,3
+Shalva Nutsubidze,3
+Ludwig Landgrebe,3
+Christopher Lasch,3
+David Farrell Krell,3
+Thomas Percival,3
+Sarah Kofman,3
+Douglas B. Rasmussen,3
+Brian Davies,3
+Mortimer J. Adler,3
+Dag Prawitz,3
+Terence Parsons,3
+John Passmore,3
+David Pears,3
+Walker Percy,3
+Charles De Koninck,3
+Arthur Pap,3
+Kurt Flasch,3
+Roscoe Pound,3
+Brian Leftow,3
+Keith Lehrer,3
+Albert Lautman,3
+Charles Parsons,3
+Florian Znaniecki,3
+Giovanni Botero,3
+Constantin Noica,3
+Christopher Norris,3
+Nishitani Keiji,3
+Maurice Natanson,3
+Alexander Nehamas,3
+Pauli Murray,3
+Solomon Feferman,3
+Joel Feinberg,3
+Luc Ferry,3
+I. A. Richards,3
+David Kellogg Lewis,3
+G.W.F. Hegel,3
+Immanuel Hermann Fichte,3
+Yujin Nagasawa,3
+Agostino Nifo,3
+Gerald Dworkin,3
+Petrus Ramus,3
+Julius Caesar Scaliger,3
+Charles A. Moore,3
+Mary Astell,3
+John Balguy,3
+Tanabe Hajime,3
+Walter Charleton,3
+Jitendra Nath Mohanty,3
+Anthony Collins,3
+Kenelm Digby,3
+Elisabeth of Bohemia,3
+Michael Marder,3
+Margaret MacDonald,3
+Donald M. MacKinnon,3
+Alexander Gottlieb Baumgarten,3
+Helen Longino,3
+John McCarthy,3
+John Gay,3
+Joseph Glanvill,3
+James Harrington,3
+Franciscus Mercurius van Helmont,3
+Henry Stanton,3
+David Friedrich Strauss,3
+George I. Mavrodes,3
+John Sergeant,3
+Brian Massumi,3
+Margaret Masterman,3
+Debendranath Tagore,3
+Roy Wood Sellars,3
+Odo Marquard,3
+Christian Thomasius,3
+Jane Maienschein,3
+Alcmaeon of Croton,3
+Dan Zahavi,3
+Keith Yandell,3
+Epicharmus,3
+Mark Wrathall,3
+Heraclitus of Ephesus,3
+Allan Gotthelf,3
+Antonio Labriola,3
+Susanne Langer,3
+Robert M. Young,3
+Robert Zimmer,3
+Diagoras,3
+Iris Marion Young,3
+Michael Zuckert,2
+Julian Young,2
+John Howard Yoder,2
+Francis Parker Yockey,2
+Titus Pomponius Atticus,2
+Alexander Zinoviev,2
+Aristo of Chios,2
+Jules Lachelier,2
+Richard Kroner,2
+John Haugeland,2
+Jane Heal,2
+James Frederick Ferrier,2
+John Fiske,2
+Raymond Geuss,2
+Langdon Gilkey,2
+Alfred Loisy,2
+Arthur O. Lovejoy,2
+Michael Harrington,2
+John Harsanyi,2
+David Hartman,2
+Norwood Russell Hanson,2
+G. I. Gurdjieff,2
+Catherine Wilson,2
+Archibald Garden Wernham,2
+Lewis White Beck,2
+Neil MacCormick,2
+Thomas Belsham,2
+Friedrich Eduard Beneke,2
+Bernard Loomer,2
+Beth Lord,2
+Thomas Luckmann,2
+John J. McDermott,2
+Bernard le Bovier de Fontenelle,2
+Arnold Geulincx,2
+Pierre Daniel Huet,2
+Carolyn Eisele,2
+Dorothy Emmet,2
+Todd May,2
+Kumazawa Banzan,2
+Wolfe Mays,2
+Damaris Cudworth Masham,2
+Stephen Mumford,2
+A. W. Moore,2
+Max More,2
+Sidney Morgenbesser,2
+Nicoletto Vernia,2
+Harriet Taylor Mill,2
+Margaret Cavendish,2
+William Chillingworth,2
+Sandra Mitchell,2
+Ernan McMullin,2
+Arthur Collier,2
+David Malament,2
+Francesco Algarotti,2
+Ruth Barcan Marcus,2
+Gareth Evans,2
+William MacAskill,2
+Peter Ludlow,2
+Charles Bonnet,2
+Andrew Feenberg,2
+Erwin Rohde,2
+Tim Lewens,2
+Mark Lilla,2
+George Lindbeck,2
+Elisabeth Lloyd,2
+Johann Augustus Eberhard,2
+William A. Earle,2
+John Earman,2
+John Veitch,2
+Chantal Mouffe,2
+Walter George Muelder,2
+Stephen Mulhall,2
+Kevin Mulligan,2
+Paul Draper,2
+Anthony O'Hear,2
+Susan Moller Okin,2
+Kelly Oliver,2
+Rodolphus Agricola,2
+Linda Nochlin,2
+Ernst Nolte,2
+Pierre Charron,2
+Felix Weltsch,2
+Raya Dunayevskaya,2
+Jon Michael Dunn,2
+David Shepherd Nivison,2
+Paul Nizan,2
+Henricus Regius,2
+John of St. Thomas,2
+Joachim Jungius,2
+Michael Levin,2
+Kit Fine,2
+Martha Albertson Fineman,2
+Roderick Firth,2
+Konstantin Pobedonostsev,2
+Harold Arthur Prichard,2
+Hastings Rashdall,2
+Yeshayahu Leibowitz,2
+Quentin Lauer,2
+William of Ware,2
+Adam de Wodeham,2
+Yehuda Halevi,2
+Alessandro Achillini,2
+Chauncey Wright,2
+Xavier Zubiri,2
+Lisa Downing,2
+Thomas Pogge,2
+Louis P. Pojman,2
+Huw Price,2
+William of Champeaux,2
+Leonard Peikoff,2
+Philip Pettit,2
+Herman Philipse,2
+Alexander Piatigorsky,2
+Eva Picardi,2
+Catherine Pickstock,2
+Karl Deutsch,2
+George Dickie,2
+Susan Oyama,2
+William of Saint-Amour,2
+Jakob Friedrich Fries,2
+Ernest Lepore,2
+Karl Olivecrona,2
+Manfred Frank,2
+Karel Lambert,2
+Serge Latouche,2
+Georg Christoph Lichtenberg,2
+Paul Kurtz,2
+Joseph J. Kockelmans,2
+Gottlob Ernst Schulze,2
+Peter Railton,2
+Tariq Ramadan,2
+Diogenes Allen,2
+Arthur Danto,2
+Lindley Darden,2
+Stephen Darwall,2
+Michael Davis,2
+Stathis Psillos,2
+Irving Copi,2
+Daniel Ross,2
+Peter Olivi,2
+Ian Rumfitt,2
+Philip the Chancellor,2
+George Gemistos Plethon,2
+Gideon Rosen,2
+John Cottingham,2
+William Craig,2
+Tim Crane,2
+Richard Creath,2
+Rogers Albritton,2
+Anita L. Allen,2
+Andrew J. Reck,2
+Greg Restall,2
+John Hoppus,2
+William K. Frankena,2
+Charles H. Kahn,2
+Abraham Kaplan,2
+Samuel Alexander,2
+Alfred Baeumler,2
+Julien Benda,2
+Barbara Johnson,2
+Shelly Kagan,2
+Harry V. Jaffa,2
+John Sallis,2
+Constantine Sandis,2
+Sahotra Sarkar,2
+Jules Coleman,2
+Marcel Conche,2
+David E. Cooper,2
+Karl Ameriks,2
+Stewart Shapiro,2
+Hervaeus Natalis,2
+Donald W. Sherburne,2
+Christopher Shields,2
+Irving Anellis,2
+Julia Annas,2
+Karl-Otto Apel,2
+Narayana Panditacharya,2
+J. L. Schellenberg,2
+John of Jandun,2
+Michael Scriven,2
+David Rynin,2
+David Kelley,2
+Raymond Klibansky,2
+George Kline,2
+Wilbur Knorr,2
+Tara Smith,2
+Yorick Smythies,2
+Christina Hoff Sommers,2
+Walafrid Strabo,2
+Ninian Smart,2
+Timothy Smiley,2
+Huston Smith,2
+Nicholas D. Smith,2
+Irving Singer,2
+Basaveshwara,2
+Debiprasad Chattopadhyaya,2
+Haridas Chaudhuri,2
+John Armstrong,2
+Rudolf Arnheim,2
+Larry Siedentop,2
+Stuart Shanker,2
+Susan James,2
+Richard C. Jeffrey,2
+Dov Gabbay,2
+Shaun Gallagher,2
+Jay L. Garfield,2
+Michael Inwood,2
+Paul Horwich,2
+George Edward Hughes,2
+David Hull,2
+Carlo Cattaneo,2
+Uddyotakara,2
+Quassim Cassam,2
+Barbara Cassin,2
+John Arthur,2
+Henri Atlan,2
+Robin Attfield,2
+Josiah Thompson,2
+Judith Jarvis Thomson,2
+Ibn al-Khammar,2
+Tzvetan Todorov,2
+Michael Tooley,2
+Jacques Taminiaux,2
+Alfred I. Tauber,2
+Charles Butterworth,2
+J. Baird Callicott,2
+Walter Carnielli,2
+Randall Auxier,2
+Muhammad al-Nasafi,2
+Peter the Iberian,2
+Herbert Spiegelberg,2
+Isabelle Stengers,2
+Sedulius Scottus,2
+Jennifer Hornsby,2
+Francesco de Sanctis,2
+Galvano Della Volpe,2
+Angie Hobbs,2
+Hans Freyer,2
+Barbara Herman,2
+Cressida Heyes,2
+Fulbert of Chartres,2
+Gerbert of Aurillac,2
+Jeffrey Bub,2
+Ian Buchanan,2
+Roberto Torretti,2
+Ernst Tugendhat,2
+Hypatia of Alexandria,2
+Paul Thagard,2
+Helmut Thielicke,2
+David Bostock,2
+Nick Bostrom,2
+Alain de Botton,2
+Sandra Bartky,2
+Tiruvalluvar,2
+Zeno of Tarsus,2
+Marx W. Wartofsky,2
+Anandavardhana,2
+David Braybrooke,2
+Luc Brisson,2
+Sarah Broadie,2
+William Barrett,2
+Bryan W. Van Norden,2
+Alasdair Urquhart,2
+Albert Hofstadter,2
+Brad Hooker,2
+Alison Gopnik,2
+Hipparchia of Maroneia,2
+Jonathan Wolff,2
+Albert Blumberg,2
+Paul Boghossian,2
+William C. Wimsatt,2
+Langdon Winner,2
+Metrodorus of Chios,2
+Philodemus of Gadara,2
+Philolaus of Croton,2
+C. J. F. Williams,2
+Bob Hale,2
+Wesley Newcomb Hohfeld,2
+Rebecca Goldstein,2
+Jules Lequier,2
+Paul E. Griffiths,2
+William Ritchie Sorley,2
+John Etchemendy,2
+Amitai Etzioni,2
+Henry Margenau,2
+Algernon Sydney,2
+Ehrenfried Walther von Tschirnhaus,2
+Geoffrey Bennington,2
+Gustav Bergmann,2
+Marshall Berman,2
+Andrew Bernstein,2
+Ernst Behler,2
+Nuel Belnap,2
+Mark Wynn,2
+Edith Wyschogrod,2
+Richard Wollheim,2
+John Worrall,2
+Bruce Ellis Benson,1
+Sergio Benvenuto,1
+Euclid of Alexandria,1
+Peter L. Berger,1
+Walter Berns,1
+Santiago Zabala,1
+Gongsun Longzi,1
+Hecato of Rhodes,1
+Charlotte Witt,1
+Yemima Ben-Menahem,1
+Paul Ziff,1
+Gargi Vachaknavi,1
+W. Hugh Woodin,1
+Paul Woodruff,1
+Alison Wylie,1
+Sheldon Wolin,1
+Eubulides of Miletus,1
+Pherecydes of Syros,1
+Philo the Dialectician,1
+Polyaenus of Lampsacus,1
+William J. Winslade,1
+Lao Zi,1
+Lu Ban,1
+Heather Widdows,1
+Dan Wikler,1
+Purana Kassapa,1
+Oliva Blanchette,1
+Norberto Bobbio,1
+Homi K. Bhabha,1
+Roy Bhaskar,1
+Werner Beierwaltes,1
+Daniel Bell,1
+Robert N. Bellah,1
+Pakudha Kaccayana,1
+Shvetaketu,1
+Shukracharya,1
+Theodorus of Cyrene,1
+Jack Russell Weinstein,1
+Hugo Bedau,1
+Mark Bedau,1
+Hilary Bok,1
+Akeel Bilgrami,1
+Harry Binswanger,1
+Christopher Heath Wellman,1
+Anthony Weston,1
+Philip Wheelwright,1
+Kendall Walton,1
+Nigel Warburton,1
+Geoffrey J. Warnock,1
+Agrippa the Sceptic,1
+Dirk Verhofstadt,1
+Eliseo Vivas,1
+Heinrich von Staden,1
+W. H. Walsh,1
+Ali ibn Abbas al-Majusi,1
+Nicla Vassallo,1
+Jacques Bouveresse,1
+Jc Beall,1
+Monroe Beardsley,1
+William Bechtel,1
+Demetrius the Cynic,1
+Yahya ibn Adi,1
+Ibn ar-Rawandi,1
+Colin Murray Turbayne,1
+Joseph Tussman,1
+Thomas Uebel,1
+Roberto Mangabeira Unger,1
+Herman Van Breda,1
+Dunash ibn Tamim,1
+Claudine Tiercelin,1
+Michael Bratman,1
+Stephen E. Braude,1
+Geoffrey Brennan,1
+Eugene Borowitz,1
+Eileen Hunt Botting,1
+Lauren Swayne Barthold,1
+W. W. Bartley III,1
+Heiric of Auxerre,1
+Paul W. Taylor,1
+Neil Tennant,1
+Amie Thomasson,1
+Isvarakrsna,1
+William W. Tait,1
+Tang Junyi,1
+John Tasioulas,1
+Gabriele Taylor,1
+Ken Taylor,1
+Stephen F. Barker,1
+Norman P. Barry,1
+David Braine,1
+Abd al-Masih ibn Ishaq al-Kindi,1
+Kuo Hsiang,1
+Prudentius of Troyes,1
+Avrum Stroll,1
+Edward Strong,1
+Stewart Sutherland,1
+Brendan Sweetman,1
+Nemesius of Emesa,1
+Stephen Stich,1
+Daniel Stoljar,1
+Peter of Pisa,1
+Joannes Philoponus,1
+Photios I of Constantinople,1
+Robert Stalnaker,1
+Mark Steiner,1
+Dolf Sternberger,1
+Ronna Burger,1
+John P. Burgess,1
+Arthur Burks,1
+James Burnham,1
+David O. Brink,1
+Amiri Baraka,1
+Remigius of Auxerre,1
+Sibawayh,1
+Kate Soper,1
+Robert Spaemann,1
+David Spangler,1
+Amia Srinivasan,1
+Robert Sokolowski,1
+Wasil ibn Ata,1
+Yehoshua Bar-Hillel,1
+Jeremy Butterfield,1
+Pascal Bruckner,1
+Fernand Brunner,1
+Gerd Buchdahl,1
+Abu Hayyan al-Tawhidi,1
+John Skorupski,1
+Brian Skyrms,1
+Aaron Sloman,1
+Daniel W. Smith,1
+Michael A. Smith,1
+Bartolus de Saxoferrato,1
+Gennadius Scholarius,1
+Anita Silvers,1
+Taylor Carman,1
+Annette Baier,1
+Marcus George Singer,1
+Bernard Silvestris,1
+Blasius of Parma,1
+Cavalcante de' Cavalcanti,1
+Chang Tsai,1
+Susan Shell,1
+Susan Sherwin,1
+Abner Shimony,1
+Sydney Shoemaker,1
+Henry Shue,1
+Clarembald of Arras,1
+Thomas Seebohm,1
+Bart Schultz,1
+Margaret Schabas,1
+James V. Schall,1
+Samuel Scheffler,1
+Hubert Schleichert,1
+Babette Babich,1
+Kent Bach,1
+Alan Carter,1
+Olavo de Carvalho,1
+John Cage,1
+Agnes Callard,1
+David Schmidtz,1
+J. B. Schneewind,1
+Malcolm Schofield,1
+John of La Rochelle,1
+John of Paris,1
+John Ralston Saul,1
+Fernando Savater,1
+Julian Savulescu,1
+Shri Madhvacharya,1
+Mahapurna,1
+Michel de Certeau,1
+Alan Chalmers,1
+Kostas Axelos,1
+Michael R. Ayers,1
+Moses Narboni,1
+Thomas Scanlon,1
+Pietro d'Abano,1
+John K. Roth,1
+Jean-Michel Salanskis,1
+Wesley Salmon,1
+David H. Sanford,1
+Harold Rosenberg,1
+Sandra B. Rosenthal,1
+Nicholas of Autrecourt,1
+Profiat Duran,1
+Joachim Ritter,1
+Robert Arp,1
+Zaki al-Arsuzi,1
+Christopher Celenza,1
+Mariano Artigas,1
+Margaret Atherton,1
+Peter of Auvergne,1
+Michael Resnik,1
+Janet Radcliffe Richards,1
+Roger Marston,1
+Jan van Ruysbroek,1
+Richard Brinkley,1
+Paul Ramsey,1
+Rose Rand,1
+Heidi Ravven,1
+Yvanka B. Raynova,1
+Shao Yung,1
+Sharyn Clough,1
+David Cockburn,1
+Alan Code,1
+Lorraine Code,1
+Hasok Chang,1
+Ronda Chervin,1
+Charles Chihara,1
+James Childress,1
+Leslie Armour,1
+Zenon Pylyshyn,1
+Philip L. Quinn,1
+Anthony Quinton,1
+Melvin Rader,1
+Thomas of Erfurt,1
+Frank Cioffi,1
+Gordon Clark,1
+W. Norris Clarke,1
+Trivikrama Panditacharya,1
+Ubertino of Casale,1
+Urso of Calabria,1
+Walter of Mortagne,1
+William of Alnwick,1
+William of Auxerre,1
+Walter Chatton,1
+Adrian Piper,1
+Ullin Place,1
+John Plamenatz,1
+Mark Poster,1
+William of Durham,1
+William de la Mare,1
+William of Middleton,1
+C. Anthony Anderson,1
+John Mueller Anderson,1
+Keith Ansell-Pearson,1
+Maria Rosa Antognazza,1
+William of Nottingham I,1
+William of Pagula,1
+Adrian Parr,1
+Barbara Partee,1
+Derk Pereboom,1
+Joseph Owens,1
+Peter Pagin,1
+William of St-Thierry,1
+William of Sherwood,1
+Yadava Prakaasa,1
+Zeami Motokiyo,1
+Isaac ben Judah Abravanel,1
+Onora O'Neill,1
+Toby Ord,1
+Gloria Origgi,1
+Antonio Cua,1
+Robert Dahl,1
+Joyce Mitchell Cook,1
+John M. Cooper,1
+Calvin Normore,1
+William R. Newman,1
+Pedro da Fonseca,1
+Abraham Cohen de Herrera,1
+Jan Narveson,1
+Stephen Neale,1
+Oskar Negt,1
+Henry E. Allison,1
+Arnold Davidson,1
+Brian Copenhaver,1
+Max Cresswell,1
+Helena Cronin,1
+Liu Tsung-chou,1
+Jacopo Mazzoni,1
+Robert Cummings Neville,1
+Vallabhacharya,1
+Sachiko Murata,1
+Murray Murphey,1
+Nancey Murphy,1
+Alan Musgrave,1
+Paul Moser,1
+Bob Moses,1
+Nicolaus Taurellus,1
+Gershom Carmichael,1
+George Molnar,1
+Ernest Addison Moody,1
+Scott Aikin,1
+Timo Airaksinen,1
+Lilli Alanen,1
+Richard T. De George,1
+Jonathan Dancy,1
+Hans Albert,1
+Christopher W. Morris,1
+Alex Michalos,1
+Stanley Milgram,1
+Perry Miller,1
+Elijah Millgram,1
+Peter Millican,1
+Jean-Claude Milner,1
+Leonard B. Meyer,1
+L. Harold DeWolf,1
+Alan Donagan,1
+Mario De Caro,1
+Maximilian de Gaynesford,1
+Michel Aflaq,1
+Sylviane Agacinski,1
+Jean-Pierre de Crousaz,1
+Robert Desgabets,1
+Herbert McCabe,1
+M. M. McCabe,1
+Simon Foucher,1
+Gadadhara Bhattacharya,1
+Sterling M. McMurrin,1
+Hermann Samuel Reimarus,1
+Anna Maria van Schurman,1
+Alexandre Matheron,1
+Wallace Matson,1
+James Luther Adams,1
+Douglas Den Uyl,1
+Vincent Descombes,1
+Ronald de Sousa,1
+Tim Maudlin,1
+Louis de La Forge,1
+Jean Le Clerc,1
+Bernard de Mandeville,1
+Don Marquis,1
+Richard Milton Martin,1
+Matthew Tindal,1
+Gerrard Winstanley,1
+Baron de Montesquieu,1
+Penelope Maddy,1
+Merab Mamardashvili,1
+Bonnie Mann,1
+Shadia Drury,1
+Dominique Dubarle,1
+Watsuji Tetsuro,1
+Victoria Lady Welby,1
+Miguel Abensour,1
+Peter Achinstein,1
+Yen Yuan,1
+Archibald Alison,1
+Anton Wilhelm Amo,1
+David Lyons,1
+Louis Mackey,1
+Franz Xaver von Baader,1
+Christoph Gottfried Bardili,1
+Charles Bell,1
+William Belsham,1
+Paul Lorenzen,1
+Maria Lugones,1
+Hermann Ulrici,1
+Dimitri Uznadze,1
+Ruth Abbey,1
+Mark Dooley,1
+Robert Blakey,1
+Louis Gabriel Ambroise de Bonald,1
+Genevieve Lloyd,1
+Pierre Jean George Cabanis,1
+Suzanne Lilar,1
+Alphonso Lingis,1
+Werner Leinfellner,1
+Hannes Leitgeb,1
+Mary Hays,1
+Corliss Lamont,1
+Rae Langton,1
+Olaf Stapledon,1
+L. Susan Stebbing,1
+James Hutchison Stirling,1
+Stanislaw Ignacy Witkiewicz,1
+Woo Tsin-hang,1
+Abraham Edel,1
+Bruce Kuklick,1
+Jonathan Kvanvig,1
+Dr. Samuel Johnson,1
+Martin Knutzen,1
+Matthew Kramer,1
+Michael Krausz,1
+Georg Kreisel,1
+Erik von Kuehnelt-Leddihn,1
+Lorenz Oken,1
+Marvin Farber,1
+William David Ross,1
+James M. Edie,1
+Brian David Ellis,1
+Walter Terence Stace,1
+Leszek Kolakowski,1
+Milton R. Konvitz,1
+David M. Knight,1
+Karl Wilhelm Ferdinand Solger,1
+Tominaga Nakamoto,1
+Abraham Tucker,1
+Vauvenargues,1
+Robert Adamson,1
+Evelyn Fox Keller,1
+John G. Kemeny,1
+Duncan Kennedy,1
+Joseph Kerman,1
+Karl Renner,1
+Othmar Spann,1
+Pascal Engel,1
+Emmanuel Chukwudi Eze,1
+Emil Fackenheim,1
+Robert Kirk,1
+Richard Kirkham,1
+Patricia Kitcher,1
+Gustave Belot,1
+Robert Kane,1
+Jamal al-Din al-Afghani,1
+Joy James,1
+Nick Jardine,1
+Benjamin Paul Blood,1
+Karl von Prantl,1
+Maurizio Ferraris,1
+Felix Ravaisson-Mollien,1
+Emile Boutroux,1
+Oets Kolk Bouwsma,1
+Oskar Becker,1
+Orestes Brownson,1
+Nikolay Danilevsky,1
+Rosalind Hursthouse,1
+Nikolai Chernyshevsky,1
+Claire Ortiz Hill,1
+Richard Hocking,1
+Antoine Augustin Cournot,1
+Futa Helu,1
+Michel Henry,1
+Will Herberg,1
+Mary Hesse,1
+John Forrester,1
+Rainer Forst,1
+Nishi Amane,1
+Eugen Fink,1
+John Finnis,1
+Frederic Fitch,1
+Owen Flanagan,1
+Richard E. Flathman,1
+John Hawthorne,1
+Jennifer Michael Hecht,1
+Patrick Aidan Heelan,1
+John Heil,1
+Klaus Heinrich,1
+Virginia Held,1
+Zellig Harris,1
+Gaetano Mosca,1
+John Henry Muirhead,1
+Luciano Floridi,1
+Elizabeth Flower,1
+Thomas R. Flynn,1
+Peter Forrest,1
+Vincenzo Gioberti,1
+Thomas Hill Green,1
+John Grote,1
+Van A. Harvey,1
+Clive Hamilton,1
+Alastair Hannay,1
+Sven Ove Hansson,1
+William Torrey Harris,1
+Karsten Harries,1
+C.E.M. Joad,1
+Heinrich Rudolf Hertz,1
+Christopher Fynsk,1
+W. B. Gallie,1
+John Gardner,1
+Richard Gaskin,1
+P. D. Ouspensky,1
+Benjamin Peirce,1
+Hans Wilhelm Frei,1
+Leonard Trelawny Hobhouse,1
+Eric Hoffer,1
+Philip Hallie,1
+Germain Grisez,1
+Elizabeth Grosz,1
+Samuel Guttenplan,1
+Elbert Hubbard,1
+Alfred Jarry,1
+Rudolf von Jhering,1
+Hilary Greaves,1
+Celia Green,1
+Clement Greenberg,1
+Mary J. Gregor,1
+Carlo Michelstaedter,1
+Miki Kiyoshi,1
+Ernst Mally,1
+Raymond Frey,1
+Roman Frigg,1
+Lon L. Fuller,1
+Konstantin Kavelin,1
+Aleksey Khomyakov,1
+Lewis Gordon,1
+T. A. Goudge,1
+Trudy Govier,1
+Margaret Gilbert,1
+Michael Allen Gillespie,1
+Carol Gilligan,1
+RenÃ© Girard,1
+David Gauthier,1
+Franklin Merrell-Wolff,1
+Alejandro Korn,1
+Pierre Laffitte,1
+Lydia Goehr,1
+Lucien Goldmann,1
+Moritz Lazarus,1
+Simon Glendinning,1
+Hans-Johann Glock,1
+Jonathan Glover,1
+Clark Glymour,1
+Paul Gochet,1
+Aleksei Fedorovich Losev,1
+Tamar Gendler,1
+Robert P. George,1
+Bernard Gert,1
+Alan Gewirth,1
+Jay Bernstein,1
+Peter Anthony Bertocci,1
+Michael E. Zimmerman,1
+Cebes of Thebes,1
+Robert M. Yost,1
+Volker Zotz,0
+Catherine Zuckert,0
+Jan Zwicky,0
+Anaxilaus,0
+Anaximenes of Miletus,0
+Akspada Gautama,0
+Aristippus the Elder of Cyrene,0
+MarÃ­a Zambrano,0
+MarlÃ¨ne Zarader,0
+Ingo Zechner,0
+ElÃ©mire Zolla,0
+BÄdarÄyaÅa,0
+Ashvapati,0
+Dandamis,0
+John Oulton Wisdom,0
+Karol WojtyÅa,0
+Jan WoleÅski,0
+Susan R. Wolf,0
+Ursula Wolf,0
+Kathryn Sophia Belle,0
+Aaron Ben-Ze'ev,0
+Linos Benakis,0
+JosÃ© Benardete,0
+Cristina Bicchieri,0
+Jacques Bidet,0
+Gautama Aksapada,0
+Gautama Siddhartha,0
+W. D. Wright,0
+Jerzy WrÃ³blewski,0
+Sybil Wolfram,0
+Adrian LeMors,0
+Konstantin Nikolaevich Leont'ev,0
+StanisÅaw LeÅniewski,0
+Lucien LÃ©vy-Bruhl,0
+ValÃ©ry Giroux,0
+Karol Libelt,0
+Israel Lipkin,0
+Ãmile LittrÃ©,0
+Karl Nickerson Llywelyn,0
+Alain LeRoy Locke,0
+Jakob Lorber,0
+Nicholas Onufrievich Lossky,0
+Georg LukÃ¡cs,0
+Jan Åukasiewicz,0
+Gerhard Gentzen,0
+Volker Gerhardt,0
+Marcelino MenÃ©ndez y Pelayo,0
+DÃ©sirÃ©-Joseph Mercier,0
+Feliks Koneczny,0
+Tadeusz KotarbiÅski,0
+Alexandre Koyre,0
+Kuki ShÅ«zÅ,0
+Gilles-Gaston Granger,0
+Kurt GÃ¶del,0
+Peter Goldie,0
+Victor Goldschmidt,0
+Cornelius Golightly,0
+NicolÃ¡s GÃ³mez DÃ¡vila,0
+Alfonso GÃ³mez-Lobo,0
+Ana Marta GonzÃ¡lez,0
+Peter Lavrovitch Lavrov,0
+Edouard Louis Emmanuel Julien Le Roy,0
+Hermann von Keyserling,0
+SÃ¸ren Kierkegaard,0
+Liang Sou-ming,0
+Robert Gooding-Williams,0
+AndrÃ© Gorz,0
+Alvin Gouldner,0
+James Allen Graff,0
+GÃ©rard Granel,0
+Donald A. Gillies,0
+Neil Gillman,0
+Carl Ginet,0
+Gerald Gaus,0
+William McDougall,0
+John Ellis McTaggart,0
+Georg Mehlis,0
+Friedrich Meinecke,0
+Herbert Paul Grice,0
+JÃ¸rgen JÃ¸rgensen,0
+Ernst JÃ¼nger,0
+Emile Meyerson,0
+Nikolai Konstantinovich Mikhailovskii,0
+Philipp MainlÃ¤nder,0
+TomÃ¡Å¡ Garrigue Masaryk,0
+Paul Gerhard Natorp,0
+John Neihardt,0
+Peter A. French,0
+Miranda Fricker,0
+Marilyn Friedman,0
+Risieri Frondizi,0
+Mordecai Kaplan,0
+Michael Ivanovich Karinski,0
+Norman Kemp Smith,0
+Sergei Hessen,0
+Harald HÃ¸ffding,0
+Hsiung Shih-li,0
+Joseph Halpern,0
+Wolfgang KÃ¶hler,0
+Allen Phillips Griffiths,0
+Jeroen Groenendijk,0
+Adolf GrÃ¼nbaum,0
+Cynthia M. Grund,0
+FÃ©lix Guattari,0
+MarÃ­a JosÃ© Guerra Palmero,0
+Hans Ulrich Gumbrecht,0
+Gotthard GÃ¼nther,0
+Ivan Aleksandrovich Il'in,0
+Jesse Glenn Gray,0
+Maxine Greene,0
+Krishnamurti Jiddu,0
+Abimael GuzmÃ¡n,0
+Kwame Gyekye,0
+JÃ¼rgen Habermas,0
+Volker Halbach,0
+Everett Hall,0
+Manly Palmer Hall,0
+Raimond Gaita,0
+Patrick Gardiner,0
+Moira Gatens,0
+Leon Petrazycki,0
+Carlos Fraenkel,0
+Charles Frankel,0
+Nancy Frankenberry,0
+Harry Frankfurt,0
+Oliver Shewell Franks,0
+William Fontaine,0
+Ãlisabeth de Fontenay,0
+Asher Ginsberg,0
+Nancy Hartsock,0
+Daniel M. Hausman,0
+Jean Elizabeth Hampton,0
+Russell Hardin,0
+John E. Hare,0
+Edmund Gurney,0
+Paul HÃ¤berlin,0
+Axel HÃ¤gerstrÃ¶m,0
+BÃ©la Hamvas,0
+Eduard Hanslick,0
+Friedrich Harms,0
+Rudolf Haym,0
+Rom HarrÃ©,0
+Errol Harris,0
+Tristan Harris,0
+Robert S. Hartman,0
+Stephan Hartmann,0
+RÃ©ginald Garrigou-Lagrange,0
+NÄrÄyana Guru,0
+Otto von Gierke,0
+Ãtienne Gilson,0
+Anne Fremantle,0
+Dimitrije Mitrinovic,0
+W. H. S. Monck,0
+Addison Webster Moore,0
+Max MÃ¼ller,0
+VilÃ©m Flusser,0
+James R. Flynn,0
+Dagfinn FÃ¸llesdal,0
+Manilal Dwivedi,0
+Julius Ebbinghaus,0
+Thome H. Fang,0
+Ernest Fenollosa,0
+Albert Venn Dicey,0
+Hugo Dingler,0
+David Hawkins,0
+Katherine Hawley,0
+Matti HÃ¤yry,0
+Giuseppe Ferrari,0
+Franciszek Fiszer,0
+Pavel Aleksandrovich Florenskii,0
+Jerome Frank,0
+SemÃ«n Liudvigovich Frank,0
+Nikolai Fyodorovich Fyodorov,0
+Ãgnes Heller,0
+James Edwin Creighton,0
+Tadeusz Czezowski,0
+Erich Heller,0
+MichaÅ Heller,0
+Robert J. Henle,0
+Jeanne Hersch,0
+Abraham Joshua Heschel,0
+Anders Nygren,0
+Georges Ohsawa,0
+John Wood Oman,0
+JosÃ© Ortega y Gasset,0
+Bruno de Finetti,0
+Herbert Fingarette,0
+John Martin Fischer,0
+Branden Fitelson,0
+Ãmile Durkheim,0
+Susan Hurley,0
+Norman Robert Campbell,0
+Pantaleo Carabellese,0
+Emile Auguste Chartier,0
+Leon Chwistek,0
+Juan Donoso CortÃ©s,0
+Herman Dooyeweerd,0
+Hans Adolf Eduard Driesch,0
+Curt Ducasse,0
+Eugen DÃ¼hring,0
+Christopher S. Hill,0
+Sarah Hoagland,0
+Martin Hollis,0
+Chapman Cohen,0
+Josephus Flavius Cook,0
+Ananda Kentish Coomaraswamy,0
+Luitzen Egbertus Jan Brouwer,0
+Constantin Brunner,0
+Leon Brunschvicg,0
+James Bryce 1st Viscount Bryce,0
+Ludwig BÃ¼chner,0
+Sergei Nikolaevich Bulgakov,0
+Jane Jacobs,0
+Rahel Jaeggi,0
+Heinrich Czolbe,0
+Tamara Horowitz,0
+John Hospers,0
+Paulin J. Hountondji,0
+George Hourani,0
+Colin Howson,0
+Hsu Fu-kuan,0
+Thomas Hurka,0
+James E. Faulconer,0
+Joanne Faulkner,0
+Ann Ferguson,0
+JosÃ© Ferrater Mora,0
+Frederick FerrÃ©,0
+Hermann Blumenau,0
+John Elof Boodin,0
+Jules BarthÃ©lemy-Saint-Hilaire,0
+David Baumgardt,0
+August Cieszkowski,0
+Douglas Husak,0
+John Hyman,0
+Evald Vassilievich Ilyenkov,0
+Claude Imbert,0
+Bernard Ryosuke Inagaki,0
+Veronica Ivy,0
+Roberto ArdigÃ²,0
+Valentin Ferdinandovich Asmus,0
+Alison Jaggar,0
+Pankaj Jain,0
+Erich Jantsch,0
+Grace Jantzen,0
+Katarzyna Jaszczolt,0
+Fiona Jenkins,0
+Branislav PetronijeviÄ,0
+Henri PoincarÃ©,0
+Emil Leon Post,0
+Henry Habberley Price,0
+Gustav Radbruch,0
+Joseph Fletcher,0
+Albert Schweizer,0
+Austin Marsden Farrer,0
+CÃ©cile Fabre,0
+Mark Kingwell,0
+Elizabeth Kiss,0
+Peter Kivy,0
+Peter D. Klein,0
+Nathan Birnbaum,0
+Alejandro Jodorowsky,0
+Stephen D. John,0
+Galen Johnson,0
+Dorthe JÃ¸rgensen,0
+Hans Kamp,0
+Barrie Karp,0
+Carol Karp,0
+Jerrold Katz,0
+Konstantin Sergeyevich Aksakov,0
+Henri-FrÃ©dÃ©ric Amiel,0
+Hans KÃ¶chler,0
+Gordon D. Kaufman,0
+Andreas Kemmerling,0
+Willmoore Kendall,0
+Kim Hyung-suk,0
+Elselijn Kingma,0
+Paul RÃ©e,0
+Charles Bernard Renouvier,0
+Francisco Romero,0
+Johann Karl Friedrich Rosenkranz,0
+Alf Niels Christian Ross,0
+Hartry Field,0
+Thomas Spencer Baynes,0
+Jin Eun-young,0
+Stanley Eveling,0
+Nir Eyal,0
+Mulla Hadi Sabzevari,0
+Friedrich Carl von Savigny,0
+Shah Wali Allah,0
+Lady Mary Shepherd,0
+Heinrich Christoph Wilhelm Sigwart,0
+Hryhori Skovoroda,0
+Jan Sniadecki,0
+Ursula Klein,0
+Joshua Knobe,0
+Anne Louise Germaine de StaÃ«l,0
+StanisÅaw Staszic,0
+Tai Chen,0
+Johannes Nikolaus Tetens,0
+YÃ¼ Cheng-hsieh,0
+Dudley Knowles,0
+Adrienne Koch,0
+Ignacio EllacurÃ­a,0
+Carl Elliott,0
+James Oswald,0
+Issac de Pinto,0
+Daniel Raymond,0
+August Wilhelm Rehberg,0
+Antonio Rosmini-Serbati,0
+Claude Henri de Rouvroy Comte de Saint-Simon,0
+Pierre LaromiguiÃ¨re,0
+Erazim KohÃ¡k,0
+Alexandre KojÃ¨ve,0
+Katerina Kolozova,0
+Milan Komar,0
+Mario KopiÄ,0
+WÅodzimierz Julian Korab-Karpowicz,0
+Stephan KÃ¶rner,0
+Theophilos Kairis,0
+Richard Payne Knight,0
+Hugo KoÅÅÄtaj,0
+Carolyn Korsmeyer,0
+Otto Kraushaar,0
+Richard Kraut,0
+Thomas Samuel Kuhn,0
+Anne Fagot-Largeault,0
+Delia Graff Fara,0
+Ãmile Saisset,0
+Erwin SchrÃ¶dinger,0
+Alfred SchÃ¼tz,0
+Frederick Robert Tennant,0
+Dorothy Edgington,0
+Margaret Elizabeth Egan,0
+Alexandra Elbakyan,0
+Jonathan Lear,0
+Claude Adrien HelvÃ©tius,0
+Samuel Heywood,0
+Laurens Perseus Hickok,0
+Hermann Friedrich Wilhelm Hinrichs,0
+Josef HoÃ«nÃ©-Wronski,0
+Friedrich HÃ¶lderlin,0
+John Millar,0
+Ä°oanna KuÃ§uradi,0
+Joel J. Kupperman,0
+Henry E. Kyburg Jr.,0
+Jean LadriÃ¨re,0
+Cristina Lafont,0
+Kaave Lajevardi,0
+Alexander Bryan Johnson,0
+ThÃ©odore Simon Jouffroy,0
+Wilhelm Traugott Krug,0
+Mark Lance,0
+Helen S. Lang,0
+FranÃ§ois Laruelle,0
+Thelma Z. Lavine,0
+Stephen Law,0
+George Frederick Stout,0
+James Sully,0
+Charles SecrÃ©tan,0
+Gustav Gustavovich Shpet,0
+Fernand Dumont,0
+John DuprÃ©,0
+Louis DuprÃ©,0
+Davor DÅ¾alto,0
+Miroslaw Dzielski,0
+Pietro Ubaldi,0
+Ãystein Linnebo,0
+Leonard Linsky,0
+MichÃ¨le Le DÅuff,0
+Otis Hamilton Lee,0
+Wolfgang Leidhold,0
+John Lemmon,0
+James G. Lennox,0
+Thomas Gisbourne,0
+Julius Charles Hare,0
+Graves Chamney Haughton,0
+Laetitia Matilda Hawkins,0
+David Ramsay Hay,0
+Francis Haywood,0
+Emerich de Vattel,0
+Ãmilie du ChÃ¢telet,0
+Nachman Krochmal,0
+Chang Hsueh-ch'eng,0
+Tasan ChÃ´ng Yagyong,0
+Ãtienne Bonnot de Condillac,0
+Johann Ulrich von Cramer,0
+David Fordyce,0
+Alexander Gerard,0
+Giacinto Sigismondo Gerdil,0
+Robin Le Poidevin,0
+John A. Leslie,0
+Michael Leunig,0
+Claude LÃ©vi-Strauss,0
+Bernard-Henri LÃ©vy,0
+Hywel Lewis,0
+Dimitris Liantinis,0
+S. Matthew Liao,0
+Rudolf Lingens,0
+Burton Dreben,0
+Rudjer Boscovich,0
+Jean Anthelme Brillat-Savarin,0
+Robert Buchanan,0
+Georges-Louis Leclerc Comte de Buffon,0
+William Burdon,0
+Gilles Lipovetsky,0
+Arthur Lipsett,0
+Peter Lipton,0
+Sharon Lloyd,0
+Barry Loewer,0
+Knud Ejler LÃ¸gstrup,0
+Alan Lomax,0
+Lawrence Butterworth,0
+Petr Iakovlevich Chaadev,0
+Heinrich Moritz ChalybÃ¤us,0
+BÃ©atrice Longuenesse,0
+Jerzy ÅoÅ,0
+Hermann LÃ¼bbe,0
+John R. Lucas,0
+Hugh Blair,0
+Milan Vidmar,0
+Boris Petrovich Vysheslavtsev,0
+T'an Ssu-t'ung,0
+WÅadysÅaw Tatarkiewicz,0
+Gustav Teichmuller,0
+Nicola Abbagnano,0
+Bijan Abdolkarimi,0
+Jude Patrick Dougherty,0
+James Doull,0
+Bradley Dowden,0
+William Herbert Dray,0
+Yi Kan,0
+John Abercrombie,0
+Johann Heinrich Abicht,0
+Robert Aspland,0
+Jean-FranÃ§ois Lyotard,0
+Peter K. Machamer,0
+Tibor R. Machan,0
+John Leslie Mackie,0
+Fiona Macpherson,0
+Samuel Bailey,0
+Pierre-Simon Ballanche,0
+John Ballantyne,0
+Cesare Marquis of Beccaria,0
+Jacob Sigismund Beck,0
+Christian August Crusius,0
+R. James Long,0
+Marylin Maeso,0
+Rosa MarÃ­a RodrÃ­guez Magda,0
+Lorenzo Magnani,0
+Maurice Mandelbaum,0
+Pierre Manent,0
+Erin Manning,0
+James Drever,0
+Edvard Westermarck,0
+Frantisek Weyr,0
+Henry D. Abelove,0
+Raziel Abelson,0
+William Emmanuel Abraham,0
+David Abram,0
+Gerd B. Achenbach,0
+Hans Achterhuis,0
+Felicia Nimue Ackerman,0
+Michael Detlefsen,0
+Philippe Devaux,0
+Ito Jinsai,0
+Kaibara Ekiken,0
+Antoine Le Grand,0
+Georg Anton Friedrich Ast,0
+Pierre Hyacinthe Azais,0
+JuliÃ¡n MarÃ­as,0
+Giacomo Marramao,0
+Jill Marsden,0
+Donald A. Martin,0
+Michael G. F. Martin,0
+James Dalrymple 1st Viscount Stair,0
+Gabrielle Suchon,0
+George Turnball,0
+OgyÅ« Sorai,0
+Han Wonjin,0
+Robert Joseph Pothier,0
+Pierre-Sylvain Regis,0
+Anthony Ashley-Cooper 3rd Earl of Shaftesbury,0
+Aloysius Martinich,0
+Gareth Matthews,0
+J. L. Ackrill,0
+H. B. Acton,0
+Maynard Adams,0
+Dorothy Maud Wrinch,0
+Richard Aaron,0
+Gholamreza Aavani,0
+Manuel DeLanda,0
+Bernard Delfgaauw,0
+Lara Denis,0
+Giorgio de Santillana,0
+Sediq Afghan,0
+Geraud de Cordemoy,0
+Nathaniel Culverwel,0
+John Theophilus Desaguliers,0
+Humphry Ditton,0
+Vincent Miceli,0
+Linda LÃ³pez McAlister,0
+Thomas A. McCarthy,0
+James William McClendon Jr.,0
+Sally McConnell-Ginet,0
+Terence McKenna,0
+Robert McKim,0
+Michelangelo Fardella,0
+FranÃ§ois de Salignac de la Mothe-FÃ©nelon,0
+Baltasar GraciÃ¡n y Morales,0
+Guido Grandi,0
+David Hugh Mellor,0
+Eduardo Mendieta,0
+AdÃ¨le Mercier,0
+Frank Meyer,0
+Johannes Clauberg,0
+Catherine Trotter Cockburn,0
+Lady Anne Finch Conway,0
+Michael Devitt,0
+Hent de Vries,0
+Donna Dickenson,0
+Michael R. Dietrich,0
+Zoran ÄinÄiÄ,0
+Vianney DÃ©carie,0
+Helen De Cruz,0
+Matthew Adler,0
+Mantas AdomÄnas,0
+"Lucilio ""Giulio Cesare"" Vanini",0
+Gabriel Vasquez,0
+Juan LuÃ­s Vives,0
+Firmin Abauzit,0
+Yves Marie AndrÃ©,0
+Geoffrey Midgley,0
+Alan Millar,0
+David W. Miller,0
+Izchak Miller,0
+Charles Wade Mills,0
+Charles Wright Mills,0
+FranÃ§ois Bernier,0
+Hugh Binning,0
+Samuel Bold,0
+Peter Browne,0
+Brian Herbert Medlin,0
+Richard Burthogge,0
+Christine Mitchell,0
+Annemarie Mol,0
+Richard Montague,0
+Alan Montefiore,0
+Khurshid Ahmad,0
+Shabbir Akhtar,0
+John J. DeGioia,0
+David Albert,0
+Linda MartÃ­n Alcoff,0
+Virgil Aldrich,0
+Gerda Alexander,0
+Aleksandr Danilovich Aleksandrov,0
+Robert Alexy,0
+Keimpe Algra,0
+Julius Moravcsik,0
+FranÃ§ois Rabelais,0
+Meera Nanda,0
+Errol Morris,0
+Herbert Morris,0
+Margaret Morrison,0
+Adam Morton,0
+Timothy Morton,0
+JesÃºs MosterÃ­n,0
+Mary Mothersill,0
+Richard Mouw,0
+V. Y. Mudimbe,0
+Michal SedziwÃ³j,0
+Francesco Silvestri,0
+Sosan Hyujong,0
+Francisco SuÃ¡rez,0
+Claude Buffier,0
+Roger Crisp,0
+Robert Craigie Cross,0
+Richard Crossman,0
+Isaac La PeyrÃ¨re,0
+NiccolÃ² Machiavelli,0
+John Major,0
+BartolomÃ© de Medina,0
+Teresa of Avila,0
+Francisco Toledo,0
+John E. Murdoch,0
+Arthur Edward Murphy,0
+Arne NÃ¦ss,0
+Mikyo Dorje,0
+Muhammad Baqir Mir Damad,0
+Richard Overton,0
+Francesco Patrizi da Cherso,0
+Edward Herbert 1st Baron Herbert of Cherbury,0
+Nel Noddings,0
+Uma Narayan,0
+John Forbes Nash Jr.,0
+Karen Neander,0
+Susan Neiman,0
+Paul Nelson,0
+BartholomÃ¤us Keckermann,0
+George James Allan,0
+Trevor Allan,0
+William B. Allen,0
+Ferdinand AlquiÃ©,0
+Diane Davis,0
+Viola Cordova,0
+Carla Cordua,0
+Robert P. Crease,0
+John Comenius,0
+Johannes Crellius,0
+Elijah Delmedigo,0
+Denys the Carthusian,0
+Lucy O'Brien,0
+Glen Newey,0
+Jay Newman,0
+William Newton-Smith,0
+Shaun Nichols,0
+Eduardo Nicol,0
+Julian Nida-RÃ¼melin,0
+Martine Nida-RÃ¼melin,0
+RenÃ© Descartes,0
+Guillaume du Vair,0
+Rudolph Goclenius,0
+Wawrzyniec Grzymala Goslicki,0
+Leone Battista Alberti,0
+Yohanan ben Isaac Alemanno,0
+Domingo BÃ¡Ã±ez,0
+Sebastiano Basso,0
+Jakob BÃ¶hme,0
+Blake Ostler,0
+Alva NoÃ«,0
+John T. Noonan Jr.,0
+Tore Nordenstam,0
+Kathryn Norlock,0
+David L. Norton,0
+John D. Norton,0
+Kathleen Nott,0
+Mwalimu Julius Kambarage Nyerere,0
+Ch'en Hsien-chang,0
+Chiao Hung,0
+Alan M. Olson,0
+Walter Jackson Ong,0
+RocÃ­o Orsi,0
+Robert Denoon Cumming,0
+Jean Curthoys,0
+James T. Cushing,0
+FranÃ§ois Dagognet,0
+Daniel O. Dahlstrom,0
+David R. Cole,0
+John Joseph Compton,0
+AndrÃ© Comte-Sponville,0
+Deborah Cook,0
+Ursula Coope,0
+Rachel Cooper,0
+Jack Copeland,0
+Uriel Acosta,0
+Richard Stanley Peters,0
+Anna L. Peterson,0
+Giovanni Piana,0
+Gualtiero Piccinini,0
+Konrad Ott,0
+James Otteson,0
+Albert Outler,0
+Gwilyn Ellis Lane Owen,0
+JesÃºs Padilla GÃ¡lvez,0
+George Pappas,0
+Rohit Jivanlal Parikh,0
+William of Soissons,0
+Judah ben Isaac Abravanel,0
+Mary O'Brien,0
+Brian E. O'Neil,0
+Revilo P. Oliver,0
+Ian Angus,0
+Dario Antiseri,0
+William of Newburgh,0
+William of Nottingham II,0
+William Perault,0
+William Peter Godin,0
+William of Rubio,0
+Jan PatoÄka,0
+Paul R. Patton,0
+David L. Paulsen,0
+Jean-Jacques Pelletier,0
+Zbigniew PeÅczyÅski,0
+Lorenzo PeÃ±a,0
+Carlo Penco,0
+Terence Penelhum,0
+ChaÃ¯m Perelman,0
+Hanna Pickard,0
+William of Falgar,0
+William Hothum,0
+William of Lucca,0
+William of Macclesfield,0
+William Milverley,0
+Jimmy Altham,0
+Peter Alward,0
+GÃ¼nther Anders,0
+Elizabeth S. Anderson,0
+Pamela Sue Anderson,0
+Felix S. Cohen,0
+Gerald Cohen,0
+L. Jonathan Cohen,0
+Selma Jeanne Cohen,0
+Antanas Andrijauskas,0
+William of Auvergne Bishop of Paris,0
+William Buser,0
+William of Clifford,0
+Lorenz Bruno Puntel,0
+Massimo Pigliucci,0
+Robert B. Pippin,0
+Madsen Pirie,0
+Robert M. Pirsig,0
+George Pitcher,0
+Mark de Bretton Platts,0
+John L. Pollock,0
+Leonardo Polo,0
+Edward Pols,0
+K. J. Popma,0
+Van Rensselaer Potter,0
+John Poulakos,0
+HÃ©lÃ¨ne Cixous,0
+Jean Clam,0
+Desmond Clarke,0
+Carol Cleland,0
+Thomas of York,0
+Ulrich of Strasbourg,0
+MÄdhava VidyÄranya,0
+Vojin RakiÄ,0
+Vaughan Pratt,0
+Harry Prosch,0
+Vital Du Four,0
+Vishnu Tirtha,0
+Walter of Ailly,0
+Walter of Bruges,0
+William of Heytesbury,0
+William Crathorn,0
+Theodore Metochita,0
+Miguel Reale,0
+FranÃ§ois Recanati,0
+Ruth Anna Putnam,0
+Wlodek Rabinowicz,0
+Eduardo Rabossi,0
+Thomas Ã  Kempis,0
+John P. Anton,0
+G. Aldo Antonelli,0
+Kwame Anthony Appiah,0
+Richard Appignanesi,0
+Richard Aquila,0
+Lennart Ãqvist,0
+IstvÃ¡n Aranyosi,0
+Pema ChÃ¶drÃ¶n,0
+Joanne B. Ciulla,0
+Sa skya pandita,0
+Ian Thomas Ramsey,0
+Jacques RanciÃ¨re,0
+Johannes Sharpe,0
+Shem Tob Ibn Falaquera,0
+Catherine ClÃ©ment,0
+Paul Cliteur,0
+C. A. J. Coady,0
+Clare Chambers,0
+Albert Chernenko,0
+Harold F. Cherniss,0
+TÃ¼rker Armaner,0
+Someshvara III,0
+Sigerus of Brabant,0
+Simon of Faversham,0
+Shihab al-Din Yahya ibn Habash ibn Amirak al-Sohravardi,0
+David Roochnik,0
+PrabhÄcandra,0
+Joane Petrizi,0
+Isaac Polgar,0
+Michael Psellus,0
+Pseudo-Grosseteste,0
+Michael Redhead,0
+Jonathan RÃ©e,0
+Patricia Reif,0
+Richard Kilvington,0
+Rgyal tshab dar ma rin chen,0
+Richard of Middleton,0
+RatnakÄ«rti,0
+Robert Holcot,0
+Radulphus Brito,0
+Roscelin of CompiÃ¨gne,0
+Denise Riley,0
+Cedric Robinson,0
+R. R. Rockingham Gill,0
+Sebastian RÃ¶dl,0
+Wendy Anne Rogers,0
+Juan Arnau,0
+Nomy Arpaly,0
+Robert Arrington,0
+Sergei N. Artemov,0
+Kah Kyung Cho,0
+Hector-Neri CastaÃ±eda,0
+Roberto Castillo,0
+David Castle,0
+Jean CavaillÃ¨s,0
+Adil Asadov,0
+Karl Aschenbrenner,0
+Crispin Sartwell,0
+Robert Alyngton,0
+AmÃ©lie Rorty,0
+Eugene Dennis Rose,0
+Gillian Rose,0
+Philipp Rosemann,0
+Michael E. Rosen,0
+Jay Rosenberg,0
+Nancy L. Rosenblum,0
+James F. Ross,0
+ClÃ©ment Rosset,0
+Omar KhayyÃ¡m,0
+Peter Aureol,0
+Henry S. Richardson,0
+Radovan Richta,0
+Paul RicÅur,0
+Jody Azzouni,0
+Mamaidev,0
+Moses Nahmanides,0
+Alexander Neckham,0
+Geoffrey Sayre-McCord,0
+Elaine Scarry,0
+Pietro Damiani,0
+William Penbygull,0
+Gian-Carlo Rota,0
+Daniel Rothschild,0
+Joseph Rovan,0
+Sara Ruddick,0
+Rosemary Radford Ruether,0
+Mark Sainsbury,0
+Michael J. Sandel,0
+Prabhat Rainjan Sarkar,0
+John of Mirecourt,0
+Barbara Sattler,0
+Jennifer Saul,0
+Simon Saunders,0
+Manuel Chrysoloras,0
+George N. Atiyeh,0
+Ronald Field Atkinson,0
+Elspeth Attwooll,0
+GwenaÃ«lle Aubry,0
+Lene Auestad,0
+John Langshaw Austin,0
+Armen Avanessian,0
+Jeremy Avigad,0
+Anita Avramides,0
+Alfred Jules Ayer,0
+Hiroki Azuma,0
+Richard Schacht,0
+Francis Schaeffer,0
+Kenneth F. Schaffner,0
+Israel Scheffler,0
+Stephen Schiffer,0
+Harriet Baber,0
+Rebeca Baceiredo,0
+Pierre Cassou-NoguÃ¨s,0
+Victor L. Butterfield,0
+AmÃ­lcar Cabral,0
+Massimo Cacciari,0
+Daniel Callahan,0
+Joan Callahan,0
+Craig Callender,0
+Victoria Camps,0
+Johannes Capreolus,0
+Hibat Allah Abu'l-Barakat al-Baghd\aadi,0
+Judah ben Moses of Rome,0
+Kavindra Tirtha,0
+Lu Hsiang-shan,0
+Barbara Scholz,0
+Sally Scholz,0
+Reiner SchÃ¼rmann,0
+Ofelia Schutte,0
+Lisa H. Schwartzman,0
+Steven Schwarzschild,0
+Charles E. Scott,0
+Carolina Scotto,0
+Hu Hung,0
+Ibn Sabin,0
+Ibn Taymiya,0
+Immanuel the Roman,0
+Dnyaneshwar,0
+Durandus of St. PourÃ§ain,0
+James of Viterbo,0
+Joseph Kaspi,0
+Jerome Segal,0
+Scott Sehon,0
+Neven SesardiÄ,0
+Israel Shahak,0
+Timothy Shanahan,0
+Lisa Shapiro,0
+A Satyanarayana Shastri,0
+Steven Shaviro,0
+Dariush Shayegan,0
+Gerard of Odo,0
+Gervase of Canterbury,0
+Henry of Harclay,0
+BronisÅaw Baczko,0
+Archie J. Bahm,0
+Gordon Park Baker,0
+Lynne Rudder Baker,0
+Albena Bakratcheva,0
+Gopal Balakrishnan,0
+Guy Sircello,0
+Basil Bessarion,0
+Hillel ben Samuel of Verona,0
+Tommie Shelby,0
+Nancy Sherman,0
+Alexis Shotwell,0
+Kristin Shrader-Frechette,0
+Frank Sibley,0
+David Sidorsky,0
+David of Dinant,0
+John Raymond Smythies,0
+Francis of Marchia,0
+Francis of Meyronnes,0
+GangeÅa,0
+John Silber,0
+Hugh J. Silverman,0
+Alison Simmons,0
+William Angus Sinclair,0
+Monique Canto-Sperber,0
+MiliÄ Äapek,0
+Herman Cappelen,0
+Josiah S. Carberry,0
+Eduardo Carrasco,0
+Arturo Carsetti,0
+David Burrell,0
+Roderick D. Bush,0
+Henry Bugbee,0
+Wonhyo Daisa,0
+Yahya ibn 'Adi,0
+Adam Parvipontanus,0
+Abraham ben Moses Maimonides,0
+AtÄ«Åa,0
+ThÄbit ibn Qurra,0
+Chakradhar Swami,0
+Chou Tun-Yi,0
+Lawrence Sklar,0
+Christina Slade,0
+John Edwin Smith,0
+Abraham bar Hiyya Ha-Nasi,0
+Abul Maali al-Juwayni,0
+Nicholas H. Smith,0
+Nicholas J. J. Smith,0
+Scott Soames,0
+Jordan Howard Sobel,0
+Alan Soble,0
+Margaret Somerville,0
+Wang Ch'ung,0
+Wonchuk,0
+Tom Baldwin,0
+Ãtienne Balibar,0
+Renford Bambrough,0
+Michael Banner,0
+Panayot Butchvarov,0
+Kimberley Brownlee,0
+Bartosz BroÅ¼ek,0
+Robert Brumbaugh,0
+Brian Bruya,0
+Allen Buchanan,0
+Siddhasena DivÄkara,0
+Abu Sulayman Muhammad al-Sijistani,0
+Charles Leslie Stevenson,0
+Theodore Abu-Qurrah,0
+UmÄsvÄti or Umasvami,0
+VÄcaspati MiÅra,0
+Valentinius,0
+Fred Sommers,0
+Stefan Lorenz Sorgner,0
+Janet Soskice,0
+Robert Spitzer,0
+Wolfgang Spohn,0
+Jan Michael Sprenger,0
+Timothy Sprigge,0
+Edward Stachura,0
+Joseph D. Sneed,0
+Glen Stassen,0
+Wolfgang StegmÃ¼ller,0
+Gunther Stent,0
+Abu Bakr Muhammad ibn Zakariya al-Razi,0
+Martin Bunzl,0
+J. Peter Burgess,0
+John Burnheim,0
+Teresa Brennan,0
+Dan W. Brock,0
+Berit Brogaard,0
+Dorit Bar-On,0
+JosÃ© Barata-Moura,0
+Renaud Barbaras,0
+Sidi Mohamed Barkat,0
+Ahmad ibn al-Tayyib al-Sarakhsi,0
+Muhammad ibn Idris ash-Shafi`i,0
+Abu Mansur Maturidi,0
+David Ibn Merwan Al-Mukammas,0
+Ibrahim an-Nazzam,0
+Helen Steward,0
+Gail Stine,0
+Kathleen Stock,0
+Dejan StojanoviÄ,0
+Patrick Stokes,0
+Martin Stokhof,0
+Karola Stotz,0
+Jeffrey Stout,0
+Sharon Street,0
+Mestrius Plutarch of Chaeronia,0
+PrabhÄkara,0
+Konstantinos Staikos,0
+Newton Phelps Stallknecht,0
+RÃ©mi Brague,0
+Rosi Braidotti,0
+Richard-Bevan Braithwaite,0
+Theodore Brameld,0
+Juan Chi,0
+Ko Hung,0
+KÅ«kai,0
+KumÄrila Bhaá¹?¹­a,0
+Cassius Dionysius Longinus,0
+Abd al-KarÄ«m ibn HawÄzin Qushayri,0
+Frederick Suppe,0
+Goran Å vob,0
+Norman Swartz,0
+Edmond Bordeaux Szekely,0
+Peter Szendy,0
+Macrobius Ambrosius Theodosius,0
+'Isa ibn Zur'a,0
+Isaac Ben Solomon Israeli,0
+JÄbir ibn HayyÄn,0
+Javad Tabatabai,0
+Nassim Nicholas Taleb,0
+Konrad Talmont-KamiÅski,0
+TorbjÃ¶rn TÃ¤nnsjÃ¶,0
+Hazel Barnes,0
+Marcia Baron,0
+Stephen Bronner,0
+Thom Brooks,0
+Harvey Brown,0
+Jan Boxill,0
+Joseph A. Bracken,0
+Richard Bradley,0
+Michael Brady,0
+Renate Bartsch,0
+Peter Tudvad,0
+Raimo Tuomela,0
+Hierocles the Stoic,0
+Himerius,0
+Ho Yen,0
+Hsi K'ang,0
+Paul C. Taylor,0
+Jenny Teichman,0
+Placide Tempels,0
+Sergio Tenenbaum,0
+Alice ter Meulen,0
+Irving Thalberg Jr.,0
+Laurence Thomas,0
+Patricia Thompson,0
+Abd-AllÄh Ibn al-MuqaffaÊ¿,0
+Jahm bin Safwan,0
+Ole Thyssen,0
+Pavel TichÃ½,0
+Orlando Toledo,0
+Julius Tomin,0
+Rosemarie Tong,0
+Cecilia Trifogli,0
+Roger Trigg,0
+Myles Brand,0
+Richard B. Brandt,0
+Eva Brann,0
+Jason Brennan,0
+Lisa Bortolotti,0
+Inga Bostad,0
+George Botterill,0
+Steven James Bartlett,0
+Gerhold K. Becker,0
+Lawrence C. Becker,0
+Celsus of Alexandria,0
+Cheng Hsuan,0
+Chih Tun,0
+David ibn Merwan al-Mukkamas,0
+Dawud ibn Khalaf,0
+Diogenes LaÃ«rtius,0
+Ray Turner,0
+Stephen Park Turner,0
+Ivo UrbanÄiÄ,0
+Johan van Benthem,0
+Dirar ibn 'Amr,0
+Fridugisus,0
+Gaius Musonius Rufus,0
+Luuk van Middelaar,0
+Achille Varzi,0
+Adolfo SÃ¡nchez VÃ¡zquez,0
+Henry Babcock Veatch,0
+J. David Velleman,0
+Zeno Vendler,0
+Peter-Paul Verbeek,0
+Shadi Bartsch,0
+David Basinger,0
+Diderik Batens,0
+David Batstone,0
+Charles A. Baylis,0
+David Frederick Bowers,0
+Remo Bodei,0
+Gernot BÃ¶hme,0
+Francoise Baylis,0
+Anthony Beavers,0
+AbÅ« á¸¤anÄ«fa,0
+Abu Said Al-Sirafi,0
+Zhuang Zi,0
+Etienne Vermeersch,0
+Michel Villey,0
+Margaret Urban Walker,0
+Ralph C. S. Walker,0
+R. Jay Wallace,0
+Adrian Walsh,0
+Anicius Manlius Severinus Boethius,0
+Burchard of Worms,0
+Candidus Wizo,0
+AbÅ« al-Ê¿AlÄÊ¾ al-MaÊ¿arrÄ«,0
+Abu'l Hasan Muhammad Ibn Yusuf al-'Amiri,0
+Peter Vardy,0
+Juha Varto,0
+Jeffrey Bishop,0
+Frode Alfson BjÃ¸rdal,0
+Russell Blackford,0
+Philip Welch,0
+Peter Wenz,0
+Robert B. Westbrook,0
+Alan White,0
+Douglas N. Walton,0
+Wil Waluchow,0
+Ernest Wamba dia Wamba,0
+Karen J. Warren,0
+Thomas B. Warren,0
+John W. N. Watkins,0
+John Leonard Watling,0
+Abbo of Fleury,0
+Abd al-Salam al-Jubba'i,0
+PataÃ±jali,0
+Sung Hsing,0
+Timaeus of Locri,0
+Richard M. Weaver,0
+Eugene Webb,0
+William Stone Weedon,0
+Morris Weitz,0
+Carl Friedrich von WeizsÃ¤cker,0
+Francis J. Beckwith,0
+Helen Beebee,0
+Hasna Begum,0
+Michael Bordt,0
+Jean BiÃ¨s,0
+Anat Biletzki,0
+Katalin BimbÃ³,0
+Alexander Bird,0
+David Wiggins,0
+Frederick Wilhelmsen,0
+Kathy Wilkes,0
+Dallas Willard,0
+Joseph Leon Blau,0
+Lawrence Blum,0
+Andy Blunden,0
+Chris Bobonich,0
+Jozef Maria Bochenski,0
+Vladimir Bibikhin,0
+Charles Beitz,0
+John Lane Bell,0
+Shannon Bell,0
+Sanjaya Belatthiputta,0
+ÅÄriputra,0
+PaÃ±caÅikha,0
+Elizabeth Wolgast,0
+Diogenes Apolloniates,0
+Diogenes the Cynic of Sinope,0
+Ellopion of Peparethus,0
+Payasi,0
+Pippalada,0
+Philo Judaeus of Alexandria,0
+Jan Willis,0
+Margaret Dauler Wilson,0
+Mark Wilson,0
+Richard Dien Winfield,0
+Kwasi Wiredu,0
+PÄá¹ini,0
+Huai Nun Tzu,0
+Alan R. White,0
+Nettie Wiebe,0
+Cratylus of Athens,0
+Piers Benn,0
+FranÃ§ois Zourabichvili,0
+Jean-Yves BÃ©ziau,0
+Floris van den Berg,0
+CÄrvÄka,0
+Frithjof Bergmann,0
+Michael Bergmann,0
+Arnold Berleant,0
+Linda Trinkaus Zagzebski,0
+JosÃ© Zalabardo,0
+Rachel Zuckert,0
+Estanislao Zuleta,0
+Alenka ZupanÄiÄ,0
+Zygmunt ZiembiÅski,0
+Hsu Hsing,0
+Rashid al-Ghannushi,0
+James J. Gibson,0
+Roger Gibson,0
+Blossius,0
+Marcus Berquist,0
+GÃ¡bor Betegh,0
+Mark Bevir,0
+Slavoj Å½iÅ¾ek,0
+Chaerephon,0
+Cemal YÄ±ldÄ±rÄ±m,0
+John W. Yolton,0
+Arthur M. Young,0
+Damon Young,0
+Jiyuan Yu,0
+Xu Liangying,0
+Chia Yi,0

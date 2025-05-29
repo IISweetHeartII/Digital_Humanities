@@ -1,0 +1,180 @@
+Name,In_Standard_Top50,Standard_Rank,In_Adjusted_Top50,Adjusted_Rank
+Jan Zwicky,True,1.0,True,1.0
+Damon Young,True,2.0,True,14.0
+Arthur M. Young,True,3.0,True,15.0
+John Edwin Smith,True,4.0,True,16.0
+Xu Liangying,True,5.0,True,17.0
+W. D. Wright,True,6.0,True,18.0
+Ursula Wolf,True,7.0,True,19.0
+Susan R. Wolf,True,8.0,True,20.0
+Jan WoleÅski,True,9.0,True,21.0
+Karol WojtyÅa,True,10.0,True,22.0
+Richard Dien Winfield,True,11.0,True,23.0
+Mark Wilson,True,12.0,True,24.0
+Jan Willis,True,13.0,True,25.0
+Frederick Wilhelmsen,True,14.0,True,26.0
+Alan R. White,True,15.0,True,27.0
+Alan White,True,16.0,True,28.0
+Robert B. Westbrook,True,17.0,True,29.0
+Adi Shankara,True,18.0,False,
+Abhinavagupta,True,19.0,True,13.0
+Yajnavalkya,True,20.0,False,
+Vasishtha,True,21.0,False,
+Shvetashvatara,True,22.0,False,
+Parashara,True,23.0,True,12.0
+Markandeya,True,24.0,True,11.0
+Lopamudra,True,25.0,True,10.0
+Kanada,True,26.0,False,
+Kapila,True,27.0,False,
+Jaimini,True,28.0,False,
+Dirghatamas,True,29.0,False,
+Ashtavakra,True,30.0,True,9.0
+Angiras,True,31.0,False,
+Agastya,True,32.0,True,8.0
+Benson Mates,True,33.0,True,7.0
+Anaxagoras,True,34.0,False,
+Alcibiades,True,35.0,False,
+Edwin Bryant,True,36.0,False,
+Raghunatha Siromani,True,37.0,False,
+Vedanta Desika,True,38.0,False,
+Siddheshwar,True,39.0,False,
+Ramanuja,True,40.0,False,
+Narahari Tirtha,True,41.0,False,
+Kabir,True,42.0,False,
+Khana,True,43.0,False,
+Gangesha Upadhyaya,True,44.0,False,
+Basava,True,45.0,False,
+Bhoja,True,46.0,False,
+Akka Mahadevi,True,47.0,False,
+Valluvar,True,48.0,False,
+Jayanta Bhatta,True,49.0,False,
+Socrates,True,50.0,False,
+Plato,True,51.0,False,
+Aristotle,True,52.0,False,
+Cicero,True,53.0,False,
+Averroes,True,54.0,False,
+Immanuel Kant,True,55.0,True,3.0
+Voltaire,True,56.0,False,
+Bertrand Russell,True,57.0,False,
+Confucius,True,58.0,False,
+Thomas Aquinas,True,59.0,False,
+Ibn Khaldun,True,60.0,False,
+David Hume,True,61.0,True,2.0
+Anselm,True,62.0,True,46.0
+Mozi,True,63.0,False,
+Al-Ghazali,True,65.0,False,
+Mencius,True,66.0,False,
+Karl Marx,True,67.0,False,
+Solomon,True,68.0,False,
+Al-Farabi,True,69.0,False,
+Ludwig Wittgenstein,True,70.0,False,
+Friedrich Nietzsche,True,71.0,False,
+Avicenna,True,72.0,False,
+William James,True,73.0,False,
+Arius,True,74.0,False,
+John Locke,True,75.0,False,
+Martin Heidegger,True,76.0,False,
+Bonaventure,True,77.0,False,
+Alvin Plantinga,True,78.0,False,
+Blaise Pascal,True,79.0,False,
+Edmund Husserl,True,80.0,False,
+Plotinus,True,81.0,False,
+Thucydides,True,82.0,False,
+Bede,True,83.0,False,
+Augustine of Hippo,True,84.0,False,
+Karl Popper,True,85.0,True,42.0
+Baruch Spinoza,True,86.0,False,
+Xenophon,True,87.0,False,
+Nicholas Wolterstorff,True,88.0,False,
+William of Ockham,True,89.0,False,
+Tertullian,True,90.0,False,
+Han Fei,True,91.0,False,
+Sun Tzu,True,92.0,False,
+Meister Eckhart,True,93.0,False,
+Proclus,True,94.0,False,
+Gottlob Frege,True,95.0,False,
+Peter van Inwagen,True,96.0,False,
+Roger Bacon,True,97.0,False,
+Alasdair MacIntyre,True,99.0,False,
+Daniel Dennett,True,100.0,False,
+RenÃ© Descartes,True,153.0,False,
+G. E. M. Anscombe,True,155.0,False,
+Noam Chomsky,True,157.0,False,
+Kurt GÃ¶del,True,162.0,False,
+Heraclitus of Ephesus,True,164.0,False,
+Anicius Manlius Severinus Boethius,True,165.0,False,
+Johannes Scotus Eriugena,True,168.0,False,
+Moses Maimonides,True,169.0,False,
+Peter Singer,True,172.0,False,
+Willard Van Orman Quine,True,173.0,False,
+Gottfried Leibniz,True,174.0,False,
+Hilary Putnam,True,175.0,False,
+Derek Parfit,True,178.0,False,
+Peter Geach,True,179.0,False,
+Alice Crary,True,180.0,False,
+William Alston,True,181.0,False,
+Thomas Nagel,True,182.0,False,
+Marsilio Ficino,True,183.0,False,
+Richard Swinburne,True,184.0,False,
+Pseudo-Dionysius the Areopagite,True,185.0,False,
+G. E. Moore,True,186.0,False,
+John Leslie Mackie,True,188.0,False,
+Saul Kripke,True,189.0,False,
+Paul Churchland,True,190.0,False,
+Desiderius Erasmus,True,194.0,False,
+David Kellogg Lewis,True,195.0,False,
+Nicolas Malebranche,True,197.0,False,
+Alfred Jules Ayer,True,198.0,False,
+D. Z. Phillips,True,200.0,False,
+Chanakya,True,224.0,False,
+Al-Kindi,True,232.0,False,
+Lucretius,True,235.0,False,
+Gilbert Ryle,True,237.0,False,
+Parmenides,True,242.0,False,
+Wilfrid Sellars,True,243.0,False,
+John Dewey,True,244.0,False,
+Gorgias,True,245.0,False,
+John Rawls,True,269.0,False,
+Gilles Deleuze,True,272.0,False,
+Jacques Derrida,True,278.0,True,44.0
+Vasubandhu,True,280.0,False,
+John Stuart Mill,True,284.0,False,
+Charles Sanders Peirce,True,285.0,False,
+Leo Strauss,True,287.0,False,
+Henri Bergson,True,289.0,False,
+Isaac Newton,True,292.0,True,40.0
+Charles Taylor,True,293.0,False,
+John McDowell,True,294.0,False,
+Richard Rorty,True,295.0,False,
+Alfred North Whitehead,True,296.0,False,
+Rudolf Carnap,True,297.0,False,
+Martha Nussbaum,True,298.0,False,
+Antony Flew,True,333.0,False,
+Alexander Pruss,True,334.0,False,
+William Lane Craig,True,335.0,False,
+Alonzo Church,True,338.0,False,
+Michael Dummett,True,339.0,False,
+Roderick Chisholm,True,341.0,False,
+Jean-Luc Marion,True,343.0,False,
+Gabriel Marcel,True,344.0,False,
+Vladimir Solovyov,True,345.0,False,
+Karl Leonhard Reinhold,False,,True,4.0
+Gottlob Ernst Schulze,False,,True,5.0
+Robert Fogelin,False,,True,6.0
+Vyasatirtha,False,,True,30.0
+Fujiwara Seika,False,,True,31.0
+Chaitanya Mahaprabhu,False,,True,32.0
+Zhu Xi,False,,True,33.0
+Jayatirtha,False,,True,34.0
+Jinul,False,,True,35.0
+Dogen,False,,True,36.0
+Cheng Yi,False,,True,37.0
+Cheng Hao,False,,True,38.0
+Uddalaka Aruni,False,,True,39.0
+John Sallis,False,,True,41.0
+Werner Heisenberg,False,,True,43.0
+Marcel Conche,False,,True,45.0
+Mou Zongsan,False,,True,47.0
+Bimal Krishna Matilal,False,,True,48.0
+Jaegwon Kim,False,,True,49.0
+Johannes Bronkhorst,False,,True,50.0

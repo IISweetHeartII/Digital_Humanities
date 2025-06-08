@@ -1,0 +1,22 @@
+# 데이터 수집 및 처리
+requests>=2.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# 네트워크 분석
+networkx>=3.0
+python-louvain>=0.16
+
+# 데이터 시각화
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# 통계 분석
+scipy>=1.10.0
+statsmodels>=0.13.0
+
+# API 관련
+python-dotenv>=1.0.0  # 환경변수 관리
+
+# 추가된 의존성
+beautifulsoup4>=4.9.0 

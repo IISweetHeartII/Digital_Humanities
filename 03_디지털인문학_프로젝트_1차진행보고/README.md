@@ -47,5 +47,5 @@
 ### 3. 향후 계획: Raw 중심성 값 편향 보정 및 상세 분석
 
 - **현재 진행 중**: Raw 중심성 값은 단순히 언급 횟수에 기반하므로, 오래 활동한 철학자가 유리할 수 있는 구조적 편향이 존재합니다. 이를 보정하기 위해 철학자의 활동 시기를 고려한 `AdjustedCentrality` 계산을 준비 중입니다.
-- **계산 예정 공식**: `AdjustedCentrality = RawCentrality / log2(1+(2024-활동시기))`
+- **계산 예정 공식**: `AdjustedCentrality = In-DegreeCentrality / log2(1+(2024-활동시기))`
 - **다음 단계**: 조정된 중심성 지표를 활용하여 네트워크의 Degree Centrality, Closeness Centrality, Betweenness Centrality, Eigenvector Centrality 등을 포함한 다양한 중심성 분석을 진행하고, 시각화 작업을 수행할 예정입니다.

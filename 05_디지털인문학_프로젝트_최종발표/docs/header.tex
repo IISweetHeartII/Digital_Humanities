@@ -1,0 +1,15 @@
+\usepackage{kotex}
+\usepackage{amsmath}      % 향상된 수학 typesetting을 위함
+\usepackage{unicode-math} % XeLaTeX에서 유니코드 수학 및 글꼴을 위함
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{\leftmark}
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][]{%
+  \origfigure[H]%
+}{\endorigfigure}

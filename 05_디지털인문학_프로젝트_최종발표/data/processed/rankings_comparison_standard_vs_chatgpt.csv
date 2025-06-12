@@ -1,0 +1,82 @@
+Name,In_Standard_Top50,Standard_Rank,In_ChatGPT_Top50,ChatGPT_Rank
+Plato,True,1.0,True,2.0
+Aristotle,True,2.0,True,3.0
+Cicero,True,3.0,False,
+Averroes,True,4.0,True,33.0
+Immanuel Kant,True,5.0,True,6.0
+Voltaire,True,6.0,False,
+Bertrand Russell,True,7.0,True,24.0
+Confucius,True,8.0,True,4.0
+Thomas Aquinas,True,9.0,True,30.0
+Ibn Khaldun,True,10.0,False,
+David Hume,True,11.0,True,17.0
+Anselm,True,12.0,False,
+Mozi,True,13.0,False,
+Socrates,True,14.0,True,1.0
+Al-Ghazali,True,15.0,False,
+Mencius,True,16.0,False,
+Karl Marx,True,17.0,True,8.0
+Solomon,True,18.0,False,
+Al-Farabi,True,19.0,False,
+Ludwig Wittgenstein,True,20.0,True,23.0
+Friedrich Nietzsche,True,21.0,True,9.0
+Avicenna,True,22.0,True,32.0
+William James,True,23.0,True,43.0
+Arius,True,24.0,False,
+John Locke,True,25.0,True,15.0
+Martin Heidegger,True,26.0,True,10.0
+Bonaventure,True,27.0,False,
+Alvin Plantinga,True,28.0,False,
+Blaise Pascal,True,29.0,False,
+Edmund Husserl,True,30.0,False,
+Plotinus,True,31.0,False,
+Thucydides,True,32.0,False,
+Bede,True,33.0,False,
+Augustine of Hippo,True,34.0,True,31.0
+Karl Popper,True,35.0,True,47.0
+Baruch Spinoza,True,36.0,False,
+Xenophon,True,37.0,False,
+Nicholas Wolterstorff,True,38.0,False,
+William of Ockham,True,39.0,False,
+Tertullian,True,40.0,False,
+Han Fei,True,41.0,False,
+Sun Tzu,True,42.0,False,
+Meister Eckhart,True,43.0,False,
+Proclus,True,44.0,False,
+Gottlob Frege,True,45.0,False,
+Peter van Inwagen,True,46.0,False,
+Roger Bacon,True,47.0,False,
+Alasdair MacIntyre,True,49.0,False,
+Daniel Dennett,True,50.0,False,
+Laozi,False,,True,5.0
+Georg Wilhelm Friedrich Hegel,False,,True,7.0
+Jean-Paul Sartre,False,,True,11.0
+René Descartes,False,,True,12.0
+Jean-Jacques Rousseau,False,,True,13.0
+Hobbes,False,,True,14.0
+Berkeley,False,,True,16.0
+Spinoza,False,,True,18.0
+Gottfried Leibniz,False,,True,19.0
+Michel Foucault,False,,True,20.0
+Gilles Deleuze,False,,True,21.0
+Jacques Derrida,False,,True,22.0
+Frege,False,,True,25.0
+John Stuart Mill,False,,True,26.0
+Bentham,False,,True,27.0
+Søren Kierkegaard,False,,True,28.0
+Arthur Schopenhauer,False,,True,29.0
+Moses Maimonides,False,,True,34.0
+al-Kindi,False,,True,35.0
+Nagarjuna,False,,True,36.0
+Candrakīrti,False,,True,37.0
+Zhuangzi,False,,True,38.0
+Hannah Arendt,False,,True,39.0
+Simone de Beauvoir,False,,True,40.0
+Judith Butler,False,,True,41.0
+Charles Sanders Peirce,False,,True,42.0
+John Dewey,False,,True,44.0
+Richard Rorty,False,,True,45.0
+Hans-Georg Gadamer,False,,True,46.0
+Thomas Kuhn,False,,True,48.0
+Iris Murdoch,False,,True,49.0
+Cornel West,False,,True,50.0

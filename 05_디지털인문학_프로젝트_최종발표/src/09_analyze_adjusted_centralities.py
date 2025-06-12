@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # 파일 경로 설정
-CENTRALITIES_FILE = "data/processed/centralities.csv"
-ADJUSTED_TOP50_FILE = "data/processed/top_50_adjusted_centralities.csv"
+CENTRALITIES_FILE = "data/processed/adjusted_centralities.csv"
+ADJUSTED_TOP50_FILE = "data/processed/top_50_adjusted_in-degree-centralities.csv"
 
 def load_csv(filepath, file_description):
     """CSV 파일을 로드하고 기본 정보를 출력"""
@@ -29,9 +29,9 @@ def load_csv(filepath, file_description):
             return None
             
         print(f"총 {len(df)} 행, {len(df.columns)} 열 로드 완료")
-        # AdjustedCentrality 컬럼이 있는지 확인
-        if 'AdjustedCentrality' not in df.columns:
-            print("오류: 'AdjustedCentrality' 컬럼이 파일에 없습니다.")
+        # Adjusted_In_Degree_Centrality 컬럼이 있는지 확인
+        if 'Adjusted_In_Degree_Centrality' not in df.columns:
+            print("오류: 'Adjusted_In_Degree_Centrality' 컬럼이 파일에 없습니다.")
             return None
             
         return df
@@ -40,7 +40,7 @@ def load_csv(filepath, file_description):
         return None
 
 # 1. 중심성 결과 파일 로드
-centrality_results_df = load_csv(CENTRALITIES_FILE, "중심성 계산 결과")
+centrality_results_df = load_csv(CENTRALITIES_FILE, "조정된 중심성 계산 결과")
 
 # 파일 로드 실패 시 종료
 if centrality_results_df is None:
@@ -48,18 +48,18 @@ if centrality_results_df is None:
     exit(1)
 
 # 2. Adjusted Centrality 기준으로 내림차순 정렬하고 상위 50명 선택
-print("\n--- Adjusted Centrality 기준 상위 50명 추출 중 ---")
+print("\n--- Adjusted In-Degree Centrality 기준 상위 50명 추출 중 ---")
 
-# 유효한 AdjustedCentrality 값이 있는 행만 선택
-top_adjusted_centrality_df = centrality_results_df.dropna(subset=['AdjustedCentrality']).sort_values(by='AdjustedCentrality', ascending=False).head(50)
+# 유효한 Adjusted_In_Degree_Centrality 값이 있는 행만 선택
+top_adjusted_centrality_df = centrality_results_df.dropna(subset=['Adjusted_In_Degree_Centrality']).sort_values(by='Adjusted_In_Degree_Centrality', ascending=False).head(50)
 
-print("Adjusted Centrality 기준 상위 50명 추출 완료.")
+print("Adjusted In-Degree Centrality 기준 상위 50명 추출 완료.")
 
 # 3. 결과를 새 CSV 파일로 저장
-print("\n--- Adjusted Centrality 상위 50명 결과 저장 중 ---")
+print("\n--- Adjusted In-Degree Centrality 상위 50명 결과 저장 중 ---")
 
 top_adjusted_centrality_df.to_csv(ADJUSTED_TOP50_FILE, index=False, encoding='utf-8')
 
-print(f"Adjusted Centrality 상위 50명 결과 저장 완료: {ADJUSTED_TOP50_FILE}")
+print(f"Adjusted In-Degree Centrality 상위 50명 결과 저장 완료: {ADJUSTED_TOP50_FILE}")
 
 print("스크립트 실행 완료.") 

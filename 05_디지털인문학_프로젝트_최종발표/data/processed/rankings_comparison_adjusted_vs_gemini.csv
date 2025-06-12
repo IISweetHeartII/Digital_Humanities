@@ -1,0 +1,80 @@
+Name,In_Adjusted_Top50,Adjusted_Rank,In_Gemini_Top50,Gemini_Rank
+Averroes,True,1.0,True,13.0
+Immanuel Kant,True,2.0,True,23.0
+Voltaire,True,3.0,False,
+Bertrand Russell,True,4.0,True,32.0
+Thomas Aquinas,True,5.0,True,14.0
+Ibn Khaldun,True,6.0,False,
+David Hume,True,7.0,True,21.0
+Anselm,True,8.0,True,12.0
+Al-Ghazali,True,9.0,False,
+Karl Marx,True,10.0,True,27.0
+Al-Farabi,True,11.0,False,
+Ludwig Wittgenstein,True,12.0,True,33.0
+Friedrich Nietzsche,True,13.0,True,28.0
+Avicenna,True,14.0,True,11.0
+William James,True,15.0,False,
+Arius,True,16.0,False,
+John Locke,True,17.0,True,19.0
+Martin Heidegger,True,18.0,True,34.0
+Alvin Plantinga,True,19.0,False,
+Blaise Pascal,True,20.0,False,
+Bonaventure,True,21.0,False,
+Edmund Husserl,True,22.0,True,29.0
+Plotinus,True,23.0,True,9.0
+Bede,True,24.0,False,
+Augustine of Hippo,True,25.0,False,
+Karl Popper,True,26.0,True,35.0
+Baruch Spinoza,True,27.0,True,18.0
+Nicholas Wolterstorff,True,28.0,False,
+William of Ockham,True,29.0,False,
+Tertullian,True,30.0,False,
+Meister Eckhart,True,31.0,False,
+Gottlob Frege,True,32.0,True,30.0
+Proclus,True,33.0,False,
+Peter van Inwagen,True,34.0,False,
+Roger Bacon,True,36.0,False,
+Daniel Dennett,True,37.0,False,
+Alasdair MacIntyre,True,38.0,False,
+G. E. Moore,True,39.0,False,
+Saul Kripke,True,40.0,False,
+Peter Singer,True,41.0,False,
+Noam Chomsky,True,42.0,False,
+Al-Kindi,True,43.0,False,
+Henry of Ghent,True,44.0,False,
+Pseudo-Dionysius the Areopagite,True,45.0,False,
+John Dewey,True,46.0,False,
+Sigmund Freud,True,47.0,False,
+Duns Scotus,True,48.0,False,
+William Lane Craig,True,49.0,False,
+Hilary Putnam,True,50.0,False,
+Socrates,False,,True,1.0
+Plato,False,,True,2.0
+Aristotle,False,,True,3.0
+Heraclitus,False,,True,4.0
+Parmenides,False,,True,5.0
+Confucius,False,,True,6.0
+Epicurus,False,,True,7.0
+Zeno of Citium,False,,True,8.0
+Augustine,False,,True,10.0
+Niccolò Machiavelli,False,,True,15.0
+René Descartes,False,,True,16.0
+Thomas Hobbes,False,,True,17.0
+Gottfried Leibniz,False,,True,20.0
+Jean-Jacques Rousseau,False,,True,22.0
+Georg Wilhelm Friedrich Hegel,False,,True,24.0
+John Stuart Mill,False,,True,25.0
+Søren Kierkegaard,False,,True,26.0
+Charles Sanders Peirce,False,,True,31.0
+Jean-Paul Sartre,False,,True,36.0
+Simone de Beauvoir,False,,True,37.0
+Hannah Arendt,False,,True,38.0
+Willard Van Orman Quine,False,,True,39.0
+Thomas Kuhn,False,,True,40.0
+John Rawls,False,,True,41.0
+Michel Foucault,False,,True,42.0
+Jacques Derrida,False,,True,43.0
+Jürgen Habermas,False,,True,44.0
+Gilles Deleuze,False,,True,45.0
+Albert Camus,False,,True,46.0
+Ferdinand de Saussure,False,,True,47.0

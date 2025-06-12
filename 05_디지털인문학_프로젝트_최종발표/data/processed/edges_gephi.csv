@@ -1,0 +1,1203 @@
+Source,Target,Weight
+Aristotle,Cicero,1
+Aristotle,Confucius,1
+Aristotle,Han Fei,1
+Aristotle,Mencius,1
+Aristotle,Mozi,1
+Aristotle,Plato,1
+Aristotle,Socrates,1
+Aristotle,Solomon,1
+Aristotle,Sun Tzu,1
+Aristotle,Thucydides,1
+Aristotle,Xenophon,1
+Aristotle,Avicenna,1
+Aristotle,Al-Farabi,1
+Aristotle,Plotinus,1
+Aristotle,Proclus,1
+Aristotle,Al-Ghazali,1
+Aristotle,Averroes,1
+Aristotle,Ibn Khaldun,1
+Aristotle,Thomas Aquinas,1
+Aristotle,Voltaire,1
+Aristotle,Bertrand Russell,1
+Cicero,Aristotle,1
+Cicero,Confucius,1
+Cicero,Han Fei,1
+Cicero,Mencius,1
+Cicero,Mozi,1
+Cicero,Plato,1
+Cicero,Socrates,1
+Cicero,Sun Tzu,1
+Cicero,Thucydides,1
+Cicero,Xenophon,1
+Cicero,Arius,1
+Cicero,Augustine of Hippo,1
+Cicero,Al-Farabi,1
+Cicero,Plotinus,1
+Cicero,Proclus,1
+Cicero,Tertullian,1
+Cicero,Al-Ghazali,1
+Cicero,Anselm,1
+Cicero,Averroes,1
+Cicero,Bonaventure,1
+Cicero,Ibn Khaldun,1
+Cicero,Meister Eckhart,1
+Cicero,Thomas Aquinas,1
+Cicero,John Locke,1
+Cicero,Blaise Pascal,1
+Cicero,Voltaire,1
+Cicero,David Hume,1
+Cicero,Gottlob Frege,1
+Cicero,Edmund Husserl,1
+Cicero,Peter van Inwagen,1
+Cicero,Alvin Plantinga,1
+Cicero,Nicholas Wolterstorff,1
+Confucius,Aristotle,1
+Confucius,Cicero,1
+Confucius,Han Fei,1
+Confucius,Mencius,1
+Confucius,Mozi,1
+Confucius,Plato,1
+Confucius,Socrates,1
+Confucius,Sun Tzu,1
+Confucius,Thucydides,1
+Confucius,Xenophon,1
+Confucius,Al-Farabi,1
+Confucius,Tertullian,1
+Confucius,Al-Ghazali,1
+Confucius,Averroes,1
+Confucius,Ibn Khaldun,1
+Confucius,Voltaire,1
+Han Fei,Aristotle,1
+Han Fei,Cicero,1
+Han Fei,Confucius,1
+Han Fei,Mencius,1
+Han Fei,Mozi,1
+Han Fei,Plato,1
+Han Fei,Sun Tzu,1
+Han Fei,Thucydides,1
+Han Fei,Xenophon,1
+Han Fei,Al-Farabi,1
+Han Fei,Al-Ghazali,1
+Han Fei,Averroes,1
+Han Fei,Ibn Khaldun,1
+Han Fei,Voltaire,1
+Mencius,Aristotle,1
+Mencius,Cicero,1
+Mencius,Confucius,1
+Mencius,Han Fei,1
+Mencius,Mozi,1
+Mencius,Plato,1
+Mencius,Socrates,1
+Mencius,Sun Tzu,1
+Mencius,Thucydides,1
+Mencius,Xenophon,1
+Mencius,Al-Farabi,1
+Mencius,Tertullian,1
+Mencius,Al-Ghazali,1
+Mencius,Averroes,1
+Mencius,Ibn Khaldun,1
+Mencius,Voltaire,1
+Mozi,Aristotle,1
+Mozi,Cicero,1
+Mozi,Confucius,1
+Mozi,Han Fei,1
+Mozi,Mencius,1
+Mozi,Plato,1
+Mozi,Socrates,1
+Mozi,Sun Tzu,1
+Mozi,Thucydides,1
+Mozi,Xenophon,1
+Mozi,Al-Farabi,1
+Mozi,Tertullian,1
+Mozi,Al-Ghazali,1
+Mozi,Averroes,1
+Mozi,Ibn Khaldun,1
+Mozi,Voltaire,1
+Plato,Aristotle,1
+Plato,Cicero,1
+Plato,Confucius,1
+Plato,Han Fei,1
+Plato,Mencius,1
+Plato,Mozi,1
+Plato,Socrates,1
+Plato,Sun Tzu,1
+Plato,Thucydides,1
+Plato,Xenophon,1
+Plato,Avicenna,1
+Plato,Al-Farabi,1
+Plato,Plotinus,1
+Plato,Proclus,1
+Plato,Tertullian,1
+Plato,Al-Ghazali,1
+Plato,Anselm,1
+Plato,Averroes,1
+Plato,Ibn Khaldun,1
+Plato,John Locke,1
+Plato,Baruch Spinoza,1
+Plato,Voltaire,1
+Plato,David Hume,1
+Plato,Immanuel Kant,1
+Plato,Gottlob Frege,1
+Plato,Bertrand Russell,1
+Plato,Ludwig Wittgenstein,1
+Plato,Alvin Plantinga,1
+Plato,Karl Popper,1
+Plato,Nicholas Wolterstorff,1
+Socrates,Aristotle,1
+Socrates,Cicero,1
+Socrates,Confucius,1
+Socrates,Mencius,1
+Socrates,Mozi,1
+Socrates,Plato,1
+Socrates,Thucydides,1
+Socrates,Xenophon,1
+Socrates,Plotinus,1
+Socrates,Proclus,1
+Socrates,Voltaire,1
+Socrates,Friedrich Nietzsche,1
+Socrates,Karl Popper,1
+Solomon,Arius,1
+Solomon,Thomas Aquinas,1
+Sun Tzu,Aristotle,1
+Sun Tzu,Cicero,1
+Sun Tzu,Confucius,1
+Sun Tzu,Han Fei,1
+Sun Tzu,Mencius,1
+Sun Tzu,Mozi,1
+Sun Tzu,Plato,1
+Sun Tzu,Thucydides,1
+Sun Tzu,Xenophon,1
+Sun Tzu,Al-Farabi,1
+Sun Tzu,Al-Ghazali,1
+Sun Tzu,Averroes,1
+Sun Tzu,Ibn Khaldun,1
+Sun Tzu,Voltaire,1
+Thucydides,Aristotle,1
+Thucydides,Cicero,1
+Thucydides,Confucius,1
+Thucydides,Han Fei,1
+Thucydides,Mencius,1
+Thucydides,Mozi,1
+Thucydides,Plato,1
+Thucydides,Socrates,1
+Thucydides,Sun Tzu,1
+Thucydides,Xenophon,1
+Thucydides,Al-Farabi,1
+Thucydides,Tertullian,1
+Thucydides,Al-Ghazali,1
+Thucydides,Averroes,1
+Thucydides,Ibn Khaldun,1
+Thucydides,Voltaire,1
+Thucydides,Friedrich Nietzsche,1
+Thucydides,Karl Popper,1
+Xenophon,Aristotle,1
+Xenophon,Cicero,1
+Xenophon,Confucius,1
+Xenophon,Han Fei,1
+Xenophon,Mencius,1
+Xenophon,Mozi,1
+Xenophon,Plato,1
+Xenophon,Socrates,1
+Xenophon,Sun Tzu,1
+Xenophon,Thucydides,1
+Xenophon,Al-Farabi,1
+Xenophon,Al-Ghazali,1
+Xenophon,Averroes,1
+Xenophon,Ibn Khaldun,1
+Xenophon,Voltaire,1
+Arius,Socrates,1
+Augustine of Hippo,Aristotle,1
+Augustine of Hippo,Cicero,1
+Augustine of Hippo,Confucius,1
+Augustine of Hippo,Mencius,1
+Augustine of Hippo,Mozi,1
+Augustine of Hippo,Plato,1
+Augustine of Hippo,Socrates,1
+Augustine of Hippo,Solomon,1
+Augustine of Hippo,Thucydides,1
+Augustine of Hippo,Arius,1
+Augustine of Hippo,Avicenna,1
+Augustine of Hippo,Bede,1
+Augustine of Hippo,Al-Farabi,1
+Augustine of Hippo,Plotinus,1
+Augustine of Hippo,Proclus,1
+Augustine of Hippo,Tertullian,1
+Augustine of Hippo,Al-Ghazali,1
+Augustine of Hippo,Anselm,1
+Augustine of Hippo,Averroes,1
+Augustine of Hippo,Bonaventure,1
+Augustine of Hippo,Ibn Khaldun,1
+Augustine of Hippo,Meister Eckhart,1
+Augustine of Hippo,William of Ockham,1
+Augustine of Hippo,Roger Bacon,1
+Augustine of Hippo,Thomas Aquinas,1
+Augustine of Hippo,John Locke,1
+Augustine of Hippo,Blaise Pascal,1
+Augustine of Hippo,Baruch Spinoza,1
+Augustine of Hippo,Voltaire,1
+Augustine of Hippo,David Hume,1
+Augustine of Hippo,Immanuel Kant,1
+Augustine of Hippo,Gottlob Frege,1
+Augustine of Hippo,Martin Heidegger,1
+Augustine of Hippo,Edmund Husserl,1
+Augustine of Hippo,William James,1
+Augustine of Hippo,Karl Marx,1
+Augustine of Hippo,Friedrich Nietzsche,1
+Augustine of Hippo,Bertrand Russell,1
+Augustine of Hippo,Ludwig Wittgenstein,1
+Augustine of Hippo,Daniel Dennett,1
+Augustine of Hippo,Peter van Inwagen,1
+Augustine of Hippo,Alasdair MacIntyre,1
+Augustine of Hippo,Alvin Plantinga,1
+Augustine of Hippo,Nicholas Wolterstorff,1
+Avicenna,Aristotle,1
+Avicenna,Plato,1
+Avicenna,Socrates,1
+Avicenna,Solomon,1
+Avicenna,Arius,1
+Avicenna,Al-Farabi,1
+Avicenna,Al-Ghazali,1
+Avicenna,Averroes,1
+Avicenna,Ibn Khaldun,1
+Avicenna,William of Ockham,1
+Avicenna,Roger Bacon,1
+Avicenna,Thomas Aquinas,1
+Bede,Cicero,1
+Bede,Solomon,1
+Bede,Arius,1
+Bede,Augustine of Hippo,1
+Bede,Tertullian,1
+Bede,Anselm,1
+Bede,Bonaventure,1
+Bede,Meister Eckhart,1
+Bede,William of Ockham,1
+Bede,Roger Bacon,1
+Bede,Thomas Aquinas,1
+Bede,Blaise Pascal,1
+Bede,Alasdair MacIntyre,1
+Al-Farabi,Aristotle,1
+Al-Farabi,Cicero,1
+Al-Farabi,Confucius,1
+Al-Farabi,Han Fei,1
+Al-Farabi,Mencius,1
+Al-Farabi,Mozi,1
+Al-Farabi,Plato,1
+Al-Farabi,Socrates,1
+Al-Farabi,Solomon,1
+Al-Farabi,Sun Tzu,1
+Al-Farabi,Thucydides,1
+Al-Farabi,Xenophon,1
+Al-Farabi,Arius,1
+Al-Farabi,Avicenna,1
+Al-Farabi,Plotinus,1
+Al-Farabi,Proclus,1
+Al-Farabi,Tertullian,1
+Al-Farabi,Al-Ghazali,1
+Al-Farabi,Anselm,1
+Al-Farabi,Averroes,1
+Al-Farabi,Bonaventure,1
+Al-Farabi,Ibn Khaldun,1
+Al-Farabi,Meister Eckhart,1
+Al-Farabi,Blaise Pascal,1
+Al-Farabi,Voltaire,1
+Al-Farabi,Gottlob Frege,1
+Al-Farabi,Edmund Husserl,1
+Al-Farabi,Peter van Inwagen,1
+Al-Farabi,Alvin Plantinga,1
+Al-Farabi,Nicholas Wolterstorff,1
+Plotinus,Aristotle,1
+Plotinus,Cicero,1
+Plotinus,Mozi,1
+Plotinus,Plato,1
+Plotinus,Socrates,1
+Plotinus,Solomon,1
+Plotinus,Xenophon,1
+Plotinus,Arius,1
+Plotinus,Augustine of Hippo,1
+Plotinus,Avicenna,1
+Plotinus,Al-Farabi,1
+Plotinus,Proclus,1
+Plotinus,Al-Ghazali,1
+Plotinus,Anselm,1
+Plotinus,Averroes,1
+Plotinus,Bonaventure,1
+Plotinus,Meister Eckhart,1
+Plotinus,Thomas Aquinas,1
+Plotinus,Blaise Pascal,1
+Plotinus,Gottlob Frege,1
+Plotinus,Edmund Husserl,1
+Plotinus,Bertrand Russell,1
+Plotinus,Peter van Inwagen,1
+Plotinus,Alvin Plantinga,1
+Plotinus,Nicholas Wolterstorff,1
+Proclus,Aristotle,1
+Proclus,Cicero,1
+Proclus,Plato,1
+Proclus,Arius,1
+Proclus,Al-Farabi,1
+Proclus,Plotinus,1
+Proclus,Anselm,1
+Proclus,Bonaventure,1
+Proclus,Meister Eckhart,1
+Proclus,Thomas Aquinas,1
+Proclus,Blaise Pascal,1
+Proclus,Gottlob Frege,1
+Proclus,Edmund Husserl,1
+Proclus,Peter van Inwagen,1
+Proclus,Alvin Plantinga,1
+Proclus,Nicholas Wolterstorff,1
+Tertullian,Cicero,1
+Tertullian,Confucius,1
+Tertullian,Mencius,1
+Tertullian,Mozi,1
+Tertullian,Plato,1
+Tertullian,Thucydides,1
+Tertullian,Augustine of Hippo,1
+Tertullian,Bede,1
+Tertullian,Proclus,1
+Tertullian,Anselm,1
+Tertullian,Bonaventure,1
+Tertullian,Ibn Khaldun,1
+Tertullian,Meister Eckhart,1
+Tertullian,William of Ockham,1
+Tertullian,Roger Bacon,1
+Tertullian,Thomas Aquinas,1
+Tertullian,Blaise Pascal,1
+Tertullian,Voltaire,1
+Tertullian,Alasdair MacIntyre,1
+Al-Ghazali,Aristotle,1
+Al-Ghazali,Cicero,1
+Al-Ghazali,Confucius,1
+Al-Ghazali,Han Fei,1
+Al-Ghazali,Mencius,1
+Al-Ghazali,Mozi,1
+Al-Ghazali,Plato,1
+Al-Ghazali,Solomon,1
+Al-Ghazali,Sun Tzu,1
+Al-Ghazali,Thucydides,1
+Al-Ghazali,Xenophon,1
+Al-Ghazali,Augustine of Hippo,1
+Al-Ghazali,Avicenna,1
+Al-Ghazali,Al-Farabi,1
+Al-Ghazali,Anselm,1
+Al-Ghazali,Averroes,1
+Al-Ghazali,Bonaventure,1
+Al-Ghazali,Ibn Khaldun,1
+Al-Ghazali,Meister Eckhart,1
+Al-Ghazali,William of Ockham,1
+Al-Ghazali,Roger Bacon,1
+Al-Ghazali,Thomas Aquinas,1
+Al-Ghazali,Voltaire,1
+Al-Ghazali,David Hume,1
+Al-Ghazali,William James,1
+Anselm,Aristotle,1
+Anselm,Cicero,1
+Anselm,Plato,1
+Anselm,Solomon,1
+Anselm,Arius,1
+Anselm,Augustine of Hippo,1
+Anselm,Avicenna,1
+Anselm,Bede,1
+Anselm,Al-Farabi,1
+Anselm,Plotinus,1
+Anselm,Proclus,1
+Anselm,Tertullian,1
+Anselm,Al-Ghazali,1
+Anselm,Averroes,1
+Anselm,Bonaventure,1
+Anselm,Ibn Khaldun,1
+Anselm,Meister Eckhart,1
+Anselm,William of Ockham,1
+Anselm,Roger Bacon,1
+Anselm,Thomas Aquinas,1
+Anselm,Blaise Pascal,1
+Anselm,Baruch Spinoza,1
+Anselm,David Hume,1
+Anselm,Immanuel Kant,1
+Anselm,Gottlob Frege,1
+Anselm,Edmund Husserl,1
+Anselm,William James,1
+Anselm,Karl Marx,1
+Anselm,Friedrich Nietzsche,1
+Anselm,Bertrand Russell,1
+Anselm,Daniel Dennett,1
+Anselm,Peter van Inwagen,1
+Anselm,Alasdair MacIntyre,1
+Anselm,Alvin Plantinga,1
+Anselm,Nicholas Wolterstorff,1
+Averroes,Aristotle,1
+Averroes,Cicero,1
+Averroes,Confucius,1
+Averroes,Han Fei,1
+Averroes,Mencius,1
+Averroes,Mozi,1
+Averroes,Plato,1
+Averroes,Solomon,1
+Averroes,Sun Tzu,1
+Averroes,Thucydides,1
+Averroes,Xenophon,1
+Averroes,Augustine of Hippo,1
+Averroes,Avicenna,1
+Averroes,Al-Farabi,1
+Averroes,Al-Ghazali,1
+Averroes,Anselm,1
+Averroes,Bonaventure,1
+Averroes,Ibn Khaldun,1
+Averroes,Meister Eckhart,1
+Averroes,William of Ockham,1
+Averroes,Roger Bacon,1
+Averroes,Thomas Aquinas,1
+Averroes,Blaise Pascal,1
+Averroes,Baruch Spinoza,1
+Averroes,Voltaire,1
+Averroes,David Hume,1
+Averroes,Immanuel Kant,1
+Averroes,William James,1
+Averroes,Karl Marx,1
+Averroes,Friedrich Nietzsche,1
+Averroes,Bertrand Russell,1
+Averroes,Daniel Dennett,1
+Averroes,Peter van Inwagen,1
+Averroes,Alvin Plantinga,1
+Averroes,Nicholas Wolterstorff,1
+Bonaventure,Aristotle,1
+Bonaventure,Cicero,1
+Bonaventure,Plato,1
+Bonaventure,Solomon,1
+Bonaventure,Arius,1
+Bonaventure,Augustine of Hippo,1
+Bonaventure,Avicenna,1
+Bonaventure,Bede,1
+Bonaventure,Al-Farabi,1
+Bonaventure,Plotinus,1
+Bonaventure,Proclus,1
+Bonaventure,Tertullian,1
+Bonaventure,Al-Ghazali,1
+Bonaventure,Anselm,1
+Bonaventure,Averroes,1
+Bonaventure,Ibn Khaldun,1
+Bonaventure,Meister Eckhart,1
+Bonaventure,William of Ockham,1
+Bonaventure,Roger Bacon,1
+Bonaventure,Thomas Aquinas,1
+Bonaventure,Blaise Pascal,1
+Bonaventure,Gottlob Frege,1
+Bonaventure,Edmund Husserl,1
+Bonaventure,Peter van Inwagen,1
+Bonaventure,Alvin Plantinga,1
+Bonaventure,Nicholas Wolterstorff,1
+Ibn Khaldun,Aristotle,1
+Ibn Khaldun,Cicero,1
+Ibn Khaldun,Confucius,1
+Ibn Khaldun,Han Fei,1
+Ibn Khaldun,Mencius,1
+Ibn Khaldun,Mozi,1
+Ibn Khaldun,Plato,1
+Ibn Khaldun,Sun Tzu,1
+Ibn Khaldun,Thucydides,1
+Ibn Khaldun,Xenophon,1
+Ibn Khaldun,Avicenna,1
+Ibn Khaldun,Al-Farabi,1
+Ibn Khaldun,Tertullian,1
+Ibn Khaldun,Al-Ghazali,1
+Ibn Khaldun,Averroes,1
+Ibn Khaldun,Voltaire,1
+Ibn Khaldun,David Hume,1
+Ibn Khaldun,Karl Marx,1
+Meister Eckhart,Aristotle,1
+Meister Eckhart,Cicero,1
+Meister Eckhart,Plato,1
+Meister Eckhart,Solomon,1
+Meister Eckhart,Arius,1
+Meister Eckhart,Augustine of Hippo,1
+Meister Eckhart,Avicenna,1
+Meister Eckhart,Bede,1
+Meister Eckhart,Al-Farabi,1
+Meister Eckhart,Plotinus,1
+Meister Eckhart,Proclus,1
+Meister Eckhart,Tertullian,1
+Meister Eckhart,Al-Ghazali,1
+Meister Eckhart,Anselm,1
+Meister Eckhart,Averroes,1
+Meister Eckhart,Bonaventure,1
+Meister Eckhart,Ibn Khaldun,1
+Meister Eckhart,William of Ockham,1
+Meister Eckhart,Roger Bacon,1
+Meister Eckhart,Thomas Aquinas,1
+Meister Eckhart,Blaise Pascal,1
+Meister Eckhart,David Hume,1
+Meister Eckhart,Gottlob Frege,1
+Meister Eckhart,Martin Heidegger,1
+Meister Eckhart,Edmund Husserl,1
+Meister Eckhart,Friedrich Nietzsche,1
+Meister Eckhart,Ludwig Wittgenstein,1
+Meister Eckhart,Peter van Inwagen,1
+Meister Eckhart,Alasdair MacIntyre,1
+Meister Eckhart,Alvin Plantinga,1
+Meister Eckhart,Nicholas Wolterstorff,1
+William of Ockham,Aristotle,1
+William of Ockham,Cicero,1
+William of Ockham,Confucius,1
+William of Ockham,Han Fei,1
+William of Ockham,Mencius,1
+William of Ockham,Mozi,1
+William of Ockham,Plato,1
+William of Ockham,Solomon,1
+William of Ockham,Sun Tzu,1
+William of Ockham,Thucydides,1
+William of Ockham,Xenophon,1
+William of Ockham,Augustine of Hippo,1
+William of Ockham,Avicenna,1
+William of Ockham,Bede,1
+William of Ockham,Al-Farabi,1
+William of Ockham,Tertullian,1
+William of Ockham,Al-Ghazali,1
+William of Ockham,Anselm,1
+William of Ockham,Averroes,1
+William of Ockham,Bonaventure,1
+William of Ockham,Ibn Khaldun,1
+William of Ockham,Meister Eckhart,1
+William of Ockham,Roger Bacon,1
+William of Ockham,Thomas Aquinas,1
+William of Ockham,Blaise Pascal,1
+William of Ockham,Voltaire,1
+William of Ockham,Bertrand Russell,1
+William of Ockham,Alasdair MacIntyre,1
+Roger Bacon,Aristotle,1
+Roger Bacon,Plato,1
+Roger Bacon,Solomon,1
+Roger Bacon,Augustine of Hippo,1
+Roger Bacon,Avicenna,1
+Roger Bacon,Bede,1
+Roger Bacon,Al-Farabi,1
+Roger Bacon,Tertullian,1
+Roger Bacon,Al-Ghazali,1
+Roger Bacon,Anselm,1
+Roger Bacon,Averroes,1
+Roger Bacon,Bonaventure,1
+Roger Bacon,Ibn Khaldun,1
+Roger Bacon,Meister Eckhart,1
+Roger Bacon,William of Ockham,1
+Roger Bacon,Thomas Aquinas,1
+Roger Bacon,Blaise Pascal,1
+Roger Bacon,David Hume,1
+Roger Bacon,Bertrand Russell,1
+Roger Bacon,Alasdair MacIntyre,1
+Roger Bacon,Karl Popper,1
+Thomas Aquinas,Aristotle,1
+Thomas Aquinas,Cicero,1
+Thomas Aquinas,Confucius,1
+Thomas Aquinas,Han Fei,1
+Thomas Aquinas,Mencius,1
+Thomas Aquinas,Mozi,1
+Thomas Aquinas,Plato,1
+Thomas Aquinas,Socrates,1
+Thomas Aquinas,Solomon,1
+Thomas Aquinas,Sun Tzu,1
+Thomas Aquinas,Thucydides,1
+Thomas Aquinas,Xenophon,1
+Thomas Aquinas,Arius,1
+Thomas Aquinas,Augustine of Hippo,1
+Thomas Aquinas,Avicenna,1
+Thomas Aquinas,Bede,1
+Thomas Aquinas,Al-Farabi,1
+Thomas Aquinas,Plotinus,1
+Thomas Aquinas,Proclus,1
+Thomas Aquinas,Tertullian,1
+Thomas Aquinas,Al-Ghazali,1
+Thomas Aquinas,Anselm,1
+Thomas Aquinas,Averroes,1
+Thomas Aquinas,Bonaventure,1
+Thomas Aquinas,Ibn Khaldun,1
+Thomas Aquinas,Meister Eckhart,1
+Thomas Aquinas,William of Ockham,1
+Thomas Aquinas,Roger Bacon,1
+Thomas Aquinas,John Locke,1
+Thomas Aquinas,Blaise Pascal,1
+Thomas Aquinas,Baruch Spinoza,1
+Thomas Aquinas,Voltaire,1
+Thomas Aquinas,David Hume,1
+Thomas Aquinas,Immanuel Kant,1
+Thomas Aquinas,Bertrand Russell,1
+Thomas Aquinas,Ludwig Wittgenstein,1
+Thomas Aquinas,Alasdair MacIntyre,1
+Thomas Aquinas,Alvin Plantinga,1
+Thomas Aquinas,Nicholas Wolterstorff,1
+John Locke,Aristotle,1
+John Locke,Cicero,1
+John Locke,Confucius,1
+John Locke,Han Fei,1
+John Locke,Mencius,1
+John Locke,Mozi,1
+John Locke,Plato,1
+John Locke,Sun Tzu,1
+John Locke,Thucydides,1
+John Locke,Xenophon,1
+John Locke,Avicenna,1
+John Locke,Al-Farabi,1
+John Locke,Plotinus,1
+John Locke,Proclus,1
+John Locke,Al-Ghazali,1
+John Locke,Averroes,1
+John Locke,Ibn Khaldun,1
+John Locke,Baruch Spinoza,1
+John Locke,Voltaire,1
+John Locke,David Hume,1
+John Locke,Immanuel Kant,1
+John Locke,Karl Marx,1
+John Locke,Bertrand Russell,1
+John Locke,Ludwig Wittgenstein,1
+John Locke,Alvin Plantinga,1
+John Locke,Nicholas Wolterstorff,1
+Blaise Pascal,Aristotle,1
+Blaise Pascal,Plato,1
+Blaise Pascal,Augustine of Hippo,1
+Blaise Pascal,Avicenna,1
+Blaise Pascal,Bede,1
+Blaise Pascal,Tertullian,1
+Blaise Pascal,Anselm,1
+Blaise Pascal,Averroes,1
+Blaise Pascal,Bonaventure,1
+Blaise Pascal,Meister Eckhart,1
+Blaise Pascal,William of Ockham,1
+Blaise Pascal,Roger Bacon,1
+Blaise Pascal,Thomas Aquinas,1
+Blaise Pascal,Baruch Spinoza,1
+Blaise Pascal,Voltaire,1
+Blaise Pascal,David Hume,1
+Blaise Pascal,Immanuel Kant,1
+Blaise Pascal,William James,1
+Blaise Pascal,Karl Marx,1
+Blaise Pascal,Friedrich Nietzsche,1
+Blaise Pascal,Bertrand Russell,1
+Blaise Pascal,Daniel Dennett,1
+Blaise Pascal,Peter van Inwagen,1
+Blaise Pascal,Alasdair MacIntyre,1
+Blaise Pascal,Alvin Plantinga,1
+Blaise Pascal,Nicholas Wolterstorff,1
+Baruch Spinoza,Aristotle,1
+Baruch Spinoza,Cicero,1
+Baruch Spinoza,Confucius,1
+Baruch Spinoza,Han Fei,1
+Baruch Spinoza,Mencius,1
+Baruch Spinoza,Mozi,1
+Baruch Spinoza,Plato,1
+Baruch Spinoza,Socrates,1
+Baruch Spinoza,Solomon,1
+Baruch Spinoza,Sun Tzu,1
+Baruch Spinoza,Thucydides,1
+Baruch Spinoza,Xenophon,1
+Baruch Spinoza,Arius,1
+Baruch Spinoza,Avicenna,1
+Baruch Spinoza,Al-Farabi,1
+Baruch Spinoza,Plotinus,1
+Baruch Spinoza,Proclus,1
+Baruch Spinoza,Al-Ghazali,1
+Baruch Spinoza,Averroes,1
+Baruch Spinoza,Ibn Khaldun,1
+Baruch Spinoza,Thomas Aquinas,1
+Baruch Spinoza,John Locke,1
+Baruch Spinoza,Voltaire,1
+Baruch Spinoza,David Hume,1
+Baruch Spinoza,Immanuel Kant,1
+Baruch Spinoza,Martin Heidegger,1
+Baruch Spinoza,Edmund Husserl,1
+Baruch Spinoza,William James,1
+Baruch Spinoza,Ludwig Wittgenstein,1
+Baruch Spinoza,Daniel Dennett,1
+Voltaire,Aristotle,1
+Voltaire,Cicero,1
+Voltaire,Confucius,1
+Voltaire,Han Fei,1
+Voltaire,Mencius,1
+Voltaire,Mozi,1
+Voltaire,Plato,1
+Voltaire,Socrates,1
+Voltaire,Sun Tzu,1
+Voltaire,Thucydides,1
+Voltaire,Xenophon,1
+Voltaire,Al-Farabi,1
+Voltaire,Tertullian,1
+Voltaire,Al-Ghazali,1
+Voltaire,Averroes,1
+Voltaire,Ibn Khaldun,1
+Voltaire,John Locke,1
+Voltaire,Friedrich Nietzsche,1
+David Hume,Aristotle,1
+David Hume,Cicero,1
+David Hume,Confucius,1
+David Hume,Han Fei,1
+David Hume,Mencius,1
+David Hume,Mozi,1
+David Hume,Plato,1
+David Hume,Socrates,1
+David Hume,Sun Tzu,1
+David Hume,Thucydides,1
+David Hume,Xenophon,1
+David Hume,Augustine of Hippo,1
+David Hume,Avicenna,1
+David Hume,Bede,1
+David Hume,Al-Farabi,1
+David Hume,Tertullian,1
+David Hume,Al-Ghazali,1
+David Hume,Anselm,1
+David Hume,Averroes,1
+David Hume,Ibn Khaldun,1
+David Hume,William of Ockham,1
+David Hume,Roger Bacon,1
+David Hume,Thomas Aquinas,1
+David Hume,John Locke,1
+David Hume,Blaise Pascal,1
+David Hume,Baruch Spinoza,1
+David Hume,Voltaire,1
+David Hume,Immanuel Kant,1
+David Hume,William James,1
+David Hume,Karl Marx,1
+David Hume,Friedrich Nietzsche,1
+David Hume,Bertrand Russell,1
+David Hume,Ludwig Wittgenstein,1
+David Hume,Daniel Dennett,1
+David Hume,Peter van Inwagen,1
+David Hume,Alvin Plantinga,1
+David Hume,Karl Popper,1
+David Hume,Nicholas Wolterstorff,1
+Immanuel Kant,Aristotle,1
+Immanuel Kant,Cicero,1
+Immanuel Kant,Confucius,1
+Immanuel Kant,Han Fei,1
+Immanuel Kant,Mencius,1
+Immanuel Kant,Mozi,1
+Immanuel Kant,Plato,1
+Immanuel Kant,Socrates,1
+Immanuel Kant,Sun Tzu,1
+Immanuel Kant,Thucydides,1
+Immanuel Kant,Xenophon,1
+Immanuel Kant,Augustine of Hippo,1
+Immanuel Kant,Avicenna,1
+Immanuel Kant,Bede,1
+Immanuel Kant,Al-Farabi,1
+Immanuel Kant,Plotinus,1
+Immanuel Kant,Proclus,1
+Immanuel Kant,Tertullian,1
+Immanuel Kant,Al-Ghazali,1
+Immanuel Kant,Anselm,1
+Immanuel Kant,Averroes,1
+Immanuel Kant,Ibn Khaldun,1
+Immanuel Kant,William of Ockham,1
+Immanuel Kant,Thomas Aquinas,1
+Immanuel Kant,John Locke,1
+Immanuel Kant,Blaise Pascal,1
+Immanuel Kant,Baruch Spinoza,1
+Immanuel Kant,Voltaire,1
+Immanuel Kant,David Hume,1
+Immanuel Kant,Martin Heidegger,1
+Immanuel Kant,William James,1
+Immanuel Kant,Karl Marx,1
+Immanuel Kant,Friedrich Nietzsche,1
+Immanuel Kant,Bertrand Russell,1
+Immanuel Kant,Ludwig Wittgenstein,1
+Immanuel Kant,Daniel Dennett,1
+Immanuel Kant,Peter van Inwagen,1
+Immanuel Kant,Alvin Plantinga,1
+Immanuel Kant,Nicholas Wolterstorff,1
+Gottlob Frege,Aristotle,1
+Gottlob Frege,Cicero,1
+Gottlob Frege,Confucius,1
+Gottlob Frege,Plato,1
+Gottlob Frege,Arius,1
+Gottlob Frege,Bede,1
+Gottlob Frege,Al-Farabi,1
+Gottlob Frege,Plotinus,1
+Gottlob Frege,Proclus,1
+Gottlob Frege,Anselm,1
+Gottlob Frege,Averroes,1
+Gottlob Frege,Bonaventure,1
+Gottlob Frege,Ibn Khaldun,1
+Gottlob Frege,Meister Eckhart,1
+Gottlob Frege,Blaise Pascal,1
+Gottlob Frege,Edmund Husserl,1
+Gottlob Frege,Bertrand Russell,1
+Gottlob Frege,Ludwig Wittgenstein,1
+Gottlob Frege,Daniel Dennett,1
+Gottlob Frege,Peter van Inwagen,1
+Gottlob Frege,Alasdair MacIntyre,1
+Gottlob Frege,Alvin Plantinga,1
+Gottlob Frege,Karl Popper,1
+Gottlob Frege,Nicholas Wolterstorff,1
+Martin Heidegger,Aristotle,1
+Martin Heidegger,Cicero,1
+Martin Heidegger,Confucius,1
+Martin Heidegger,Mencius,1
+Martin Heidegger,Mozi,1
+Martin Heidegger,Plato,1
+Martin Heidegger,Thucydides,1
+Martin Heidegger,Augustine of Hippo,1
+Martin Heidegger,Avicenna,1
+Martin Heidegger,Plotinus,1
+Martin Heidegger,Proclus,1
+Martin Heidegger,Tertullian,1
+Martin Heidegger,Al-Ghazali,1
+Martin Heidegger,Averroes,1
+Martin Heidegger,Ibn Khaldun,1
+Martin Heidegger,Thomas Aquinas,1
+Martin Heidegger,John Locke,1
+Martin Heidegger,Baruch Spinoza,1
+Martin Heidegger,Voltaire,1
+Martin Heidegger,David Hume,1
+Martin Heidegger,Immanuel Kant,1
+Martin Heidegger,Edmund Husserl,1
+Martin Heidegger,William James,1
+Martin Heidegger,Friedrich Nietzsche,1
+Martin Heidegger,Bertrand Russell,1
+Martin Heidegger,Ludwig Wittgenstein,1
+Martin Heidegger,Daniel Dennett,1
+Edmund Husserl,Aristotle,1
+Edmund Husserl,Cicero,1
+Edmund Husserl,Plato,1
+Edmund Husserl,Socrates,1
+Edmund Husserl,Arius,1
+Edmund Husserl,Avicenna,1
+Edmund Husserl,Bede,1
+Edmund Husserl,Al-Farabi,1
+Edmund Husserl,Plotinus,1
+Edmund Husserl,Proclus,1
+Edmund Husserl,Anselm,1
+Edmund Husserl,Bonaventure,1
+Edmund Husserl,Meister Eckhart,1
+Edmund Husserl,Thomas Aquinas,1
+Edmund Husserl,John Locke,1
+Edmund Husserl,Blaise Pascal,1
+Edmund Husserl,Baruch Spinoza,1
+Edmund Husserl,David Hume,1
+Edmund Husserl,Immanuel Kant,1
+Edmund Husserl,Gottlob Frege,1
+Edmund Husserl,Martin Heidegger,1
+Edmund Husserl,William James,1
+Edmund Husserl,Ludwig Wittgenstein,1
+Edmund Husserl,Daniel Dennett,1
+Edmund Husserl,Peter van Inwagen,1
+Edmund Husserl,Alvin Plantinga,1
+Edmund Husserl,Nicholas Wolterstorff,1
+William James,Augustine of Hippo,1
+William James,Avicenna,1
+William James,Anselm,1
+William James,Averroes,1
+William James,William of Ockham,1
+William James,Thomas Aquinas,1
+William James,Blaise Pascal,1
+William James,Baruch Spinoza,1
+William James,David Hume,1
+William James,Immanuel Kant,1
+William James,Edmund Husserl,1
+William James,Karl Marx,1
+William James,Friedrich Nietzsche,1
+William James,Bertrand Russell,1
+William James,Ludwig Wittgenstein,1
+William James,Daniel Dennett,1
+William James,Peter van Inwagen,1
+William James,Alvin Plantinga,1
+William James,Karl Popper,1
+William James,Nicholas Wolterstorff,1
+Karl Marx,Aristotle,1
+Karl Marx,Cicero,1
+Karl Marx,Confucius,1
+Karl Marx,Han Fei,1
+Karl Marx,Mencius,1
+Karl Marx,Mozi,1
+Karl Marx,Plato,1
+Karl Marx,Sun Tzu,1
+Karl Marx,Thucydides,1
+Karl Marx,Xenophon,1
+Karl Marx,Augustine of Hippo,1
+Karl Marx,Avicenna,1
+Karl Marx,Al-Farabi,1
+Karl Marx,Al-Ghazali,1
+Karl Marx,Anselm,1
+Karl Marx,Averroes,1
+Karl Marx,Ibn Khaldun,1
+Karl Marx,William of Ockham,1
+Karl Marx,Thomas Aquinas,1
+Karl Marx,Blaise Pascal,1
+Karl Marx,Baruch Spinoza,1
+Karl Marx,Voltaire,1
+Karl Marx,David Hume,1
+Karl Marx,Immanuel Kant,1
+Karl Marx,William James,1
+Karl Marx,Friedrich Nietzsche,1
+Karl Marx,Bertrand Russell,1
+Karl Marx,Daniel Dennett,1
+Karl Marx,Peter van Inwagen,1
+Karl Marx,Alasdair MacIntyre,1
+Karl Marx,Alvin Plantinga,1
+Karl Marx,Nicholas Wolterstorff,1
+Friedrich Nietzsche,Aristotle,1
+Friedrich Nietzsche,Cicero,1
+Friedrich Nietzsche,Confucius,1
+Friedrich Nietzsche,Han Fei,1
+Friedrich Nietzsche,Mencius,1
+Friedrich Nietzsche,Mozi,1
+Friedrich Nietzsche,Plato,1
+Friedrich Nietzsche,Socrates,1
+Friedrich Nietzsche,Solomon,1
+Friedrich Nietzsche,Sun Tzu,1
+Friedrich Nietzsche,Thucydides,1
+Friedrich Nietzsche,Xenophon,1
+Friedrich Nietzsche,Augustine of Hippo,1
+Friedrich Nietzsche,Avicenna,1
+Friedrich Nietzsche,Al-Farabi,1
+Friedrich Nietzsche,Plotinus,1
+Friedrich Nietzsche,Proclus,1
+Friedrich Nietzsche,Al-Ghazali,1
+Friedrich Nietzsche,Anselm,1
+Friedrich Nietzsche,Averroes,1
+Friedrich Nietzsche,Ibn Khaldun,1
+Friedrich Nietzsche,Meister Eckhart,1
+Friedrich Nietzsche,William of Ockham,1
+Friedrich Nietzsche,Thomas Aquinas,1
+Friedrich Nietzsche,Blaise Pascal,1
+Friedrich Nietzsche,Baruch Spinoza,1
+Friedrich Nietzsche,Voltaire,1
+Friedrich Nietzsche,David Hume,1
+Friedrich Nietzsche,Immanuel Kant,1
+Friedrich Nietzsche,Martin Heidegger,1
+Friedrich Nietzsche,William James,1
+Friedrich Nietzsche,Karl Marx,1
+Friedrich Nietzsche,Bertrand Russell,1
+Friedrich Nietzsche,Daniel Dennett,1
+Friedrich Nietzsche,Peter van Inwagen,1
+Friedrich Nietzsche,Alasdair MacIntyre,1
+Friedrich Nietzsche,Alvin Plantinga,1
+Friedrich Nietzsche,Nicholas Wolterstorff,1
+Bertrand Russell,Aristotle,1
+Bertrand Russell,Cicero,1
+Bertrand Russell,Confucius,1
+Bertrand Russell,Han Fei,1
+Bertrand Russell,Mencius,1
+Bertrand Russell,Mozi,1
+Bertrand Russell,Plato,1
+Bertrand Russell,Sun Tzu,1
+Bertrand Russell,Thucydides,1
+Bertrand Russell,Xenophon,1
+Bertrand Russell,Augustine of Hippo,1
+Bertrand Russell,Avicenna,1
+Bertrand Russell,Bede,1
+Bertrand Russell,Al-Farabi,1
+Bertrand Russell,Plotinus,1
+Bertrand Russell,Proclus,1
+Bertrand Russell,Al-Ghazali,1
+Bertrand Russell,Anselm,1
+Bertrand Russell,Averroes,1
+Bertrand Russell,Ibn Khaldun,1
+Bertrand Russell,William of Ockham,1
+Bertrand Russell,Thomas Aquinas,1
+Bertrand Russell,John Locke,1
+Bertrand Russell,Blaise Pascal,1
+Bertrand Russell,Baruch Spinoza,1
+Bertrand Russell,Voltaire,1
+Bertrand Russell,David Hume,1
+Bertrand Russell,Immanuel Kant,1
+Bertrand Russell,Gottlob Frege,1
+Bertrand Russell,William James,1
+Bertrand Russell,Karl Marx,1
+Bertrand Russell,Friedrich Nietzsche,1
+Bertrand Russell,Ludwig Wittgenstein,1
+Bertrand Russell,Daniel Dennett,1
+Bertrand Russell,Peter van Inwagen,1
+Bertrand Russell,Alasdair MacIntyre,1
+Bertrand Russell,Alvin Plantinga,1
+Bertrand Russell,Karl Popper,1
+Bertrand Russell,Nicholas Wolterstorff,1
+Ludwig Wittgenstein,Aristotle,1
+Ludwig Wittgenstein,Confucius,1
+Ludwig Wittgenstein,Mozi,1
+Ludwig Wittgenstein,Plato,1
+Ludwig Wittgenstein,Augustine of Hippo,1
+Ludwig Wittgenstein,Avicenna,1
+Ludwig Wittgenstein,Plotinus,1
+Ludwig Wittgenstein,Proclus,1
+Ludwig Wittgenstein,Al-Ghazali,1
+Ludwig Wittgenstein,Averroes,1
+Ludwig Wittgenstein,Ibn Khaldun,1
+Ludwig Wittgenstein,Thomas Aquinas,1
+Ludwig Wittgenstein,John Locke,1
+Ludwig Wittgenstein,Baruch Spinoza,1
+Ludwig Wittgenstein,Voltaire,1
+Ludwig Wittgenstein,David Hume,1
+Ludwig Wittgenstein,Immanuel Kant,1
+Ludwig Wittgenstein,Gottlob Frege,1
+Ludwig Wittgenstein,Martin Heidegger,1
+Ludwig Wittgenstein,Edmund Husserl,1
+Ludwig Wittgenstein,William James,1
+Ludwig Wittgenstein,Bertrand Russell,1
+Ludwig Wittgenstein,Daniel Dennett,1
+Ludwig Wittgenstein,Peter van Inwagen,1
+Ludwig Wittgenstein,Alasdair MacIntyre,1
+Ludwig Wittgenstein,Alvin Plantinga,1
+Ludwig Wittgenstein,Karl Popper,1
+Ludwig Wittgenstein,Nicholas Wolterstorff,1
+Daniel Dennett,Aristotle,1
+Daniel Dennett,Plato,1
+Daniel Dennett,Augustine of Hippo,1
+Daniel Dennett,Avicenna,1
+Daniel Dennett,Anselm,1
+Daniel Dennett,Averroes,1
+Daniel Dennett,William of Ockham,1
+Daniel Dennett,Roger Bacon,1
+Daniel Dennett,Thomas Aquinas,1
+Daniel Dennett,John Locke,1
+Daniel Dennett,Blaise Pascal,1
+Daniel Dennett,Baruch Spinoza,1
+Daniel Dennett,David Hume,1
+Daniel Dennett,Immanuel Kant,1
+Daniel Dennett,Gottlob Frege,1
+Daniel Dennett,Martin Heidegger,1
+Daniel Dennett,Edmund Husserl,1
+Daniel Dennett,William James,1
+Daniel Dennett,Karl Marx,1
+Daniel Dennett,Friedrich Nietzsche,1
+Daniel Dennett,Bertrand Russell,1
+Daniel Dennett,Ludwig Wittgenstein,1
+Daniel Dennett,Peter van Inwagen,1
+Daniel Dennett,Alasdair MacIntyre,1
+Daniel Dennett,Alvin Plantinga,1
+Daniel Dennett,Karl Popper,1
+Daniel Dennett,Nicholas Wolterstorff,1
+Peter van Inwagen,Aristotle,1
+Peter van Inwagen,Mozi,1
+Peter van Inwagen,Plato,1
+Peter van Inwagen,Augustine of Hippo,1
+Peter van Inwagen,Avicenna,1
+Peter van Inwagen,Plotinus,1
+Peter van Inwagen,Proclus,1
+Peter van Inwagen,Al-Ghazali,1
+Peter van Inwagen,Anselm,1
+Peter van Inwagen,Averroes,1
+Peter van Inwagen,William of Ockham,1
+Peter van Inwagen,Thomas Aquinas,1
+Peter van Inwagen,Blaise Pascal,1
+Peter van Inwagen,Baruch Spinoza,1
+Peter van Inwagen,David Hume,1
+Peter van Inwagen,Immanuel Kant,1
+Peter van Inwagen,Gottlob Frege,1
+Peter van Inwagen,William James,1
+Peter van Inwagen,Karl Marx,1
+Peter van Inwagen,Friedrich Nietzsche,1
+Peter van Inwagen,Bertrand Russell,1
+Peter van Inwagen,Ludwig Wittgenstein,1
+Peter van Inwagen,Daniel Dennett,1
+Peter van Inwagen,Alasdair MacIntyre,1
+Peter van Inwagen,Alvin Plantinga,1
+Peter van Inwagen,Karl Popper,1
+Peter van Inwagen,Nicholas Wolterstorff,1
+Alasdair MacIntyre,Aristotle,1
+Alasdair MacIntyre,Cicero,1
+Alasdair MacIntyre,Confucius,1
+Alasdair MacIntyre,Mencius,1
+Alasdair MacIntyre,Mozi,1
+Alasdair MacIntyre,Plato,1
+Alasdair MacIntyre,Socrates,1
+Alasdair MacIntyre,Solomon,1
+Alasdair MacIntyre,Avicenna,1
+Alasdair MacIntyre,Bede,1
+Alasdair MacIntyre,Al-Farabi,1
+Alasdair MacIntyre,Tertullian,1
+Alasdair MacIntyre,Anselm,1
+Alasdair MacIntyre,Averroes,1
+Alasdair MacIntyre,Bonaventure,1
+Alasdair MacIntyre,Ibn Khaldun,1
+Alasdair MacIntyre,Thomas Aquinas,1
+Alasdair MacIntyre,Voltaire,1
+Alasdair MacIntyre,Karl Marx,1
+Alasdair MacIntyre,Friedrich Nietzsche,1
+Alasdair MacIntyre,Ludwig Wittgenstein,1
+Alvin Plantinga,Aristotle,1
+Alvin Plantinga,Mozi,1
+Alvin Plantinga,Plato,1
+Alvin Plantinga,Augustine of Hippo,1
+Alvin Plantinga,Avicenna,1
+Alvin Plantinga,Plotinus,1
+Alvin Plantinga,Proclus,1
+Alvin Plantinga,Al-Ghazali,1
+Alvin Plantinga,Anselm,1
+Alvin Plantinga,Averroes,1
+Alvin Plantinga,William of Ockham,1
+Alvin Plantinga,Thomas Aquinas,1
+Alvin Plantinga,John Locke,1
+Alvin Plantinga,Blaise Pascal,1
+Alvin Plantinga,Baruch Spinoza,1
+Alvin Plantinga,David Hume,1
+Alvin Plantinga,Immanuel Kant,1
+Alvin Plantinga,Gottlob Frege,1
+Alvin Plantinga,William James,1
+Alvin Plantinga,Karl Marx,1
+Alvin Plantinga,Friedrich Nietzsche,1
+Alvin Plantinga,Bertrand Russell,1
+Alvin Plantinga,Ludwig Wittgenstein,1
+Alvin Plantinga,Daniel Dennett,1
+Alvin Plantinga,Peter van Inwagen,1
+Alvin Plantinga,Alasdair MacIntyre,1
+Alvin Plantinga,Karl Popper,1
+Alvin Plantinga,Nicholas Wolterstorff,1
+Karl Popper,Aristotle,1
+Karl Popper,Cicero,1
+Karl Popper,Confucius,1
+Karl Popper,Han Fei,1
+Karl Popper,Mencius,1
+Karl Popper,Mozi,1
+Karl Popper,Plato,1
+Karl Popper,Sun Tzu,1
+Karl Popper,Thucydides,1
+Karl Popper,Xenophon,1
+Karl Popper,Arius,1
+Karl Popper,Al-Farabi,1
+Karl Popper,Al-Ghazali,1
+Karl Popper,Averroes,1
+Karl Popper,Ibn Khaldun,1
+Karl Popper,Roger Bacon,1
+Karl Popper,Thomas Aquinas,1
+Karl Popper,John Locke,1
+Karl Popper,Baruch Spinoza,1
+Karl Popper,Voltaire,1
+Karl Popper,David Hume,1
+Karl Popper,Immanuel Kant,1
+Karl Popper,Gottlob Frege,1
+Karl Popper,Martin Heidegger,1
+Karl Popper,Edmund Husserl,1
+Karl Popper,William James,1
+Karl Popper,Karl Marx,1
+Karl Popper,Bertrand Russell,1
+Karl Popper,Ludwig Wittgenstein,1
+Karl Popper,Daniel Dennett,1
+Karl Popper,Peter van Inwagen,1
+Karl Popper,Alasdair MacIntyre,1
+Karl Popper,Alvin Plantinga,1
+Karl Popper,Nicholas Wolterstorff,1
+Nicholas Wolterstorff,Aristotle,1
+Nicholas Wolterstorff,Mozi,1
+Nicholas Wolterstorff,Plato,1
+Nicholas Wolterstorff,Augustine of Hippo,1
+Nicholas Wolterstorff,Avicenna,1
+Nicholas Wolterstorff,Plotinus,1
+Nicholas Wolterstorff,Proclus,1
+Nicholas Wolterstorff,Al-Ghazali,1
+Nicholas Wolterstorff,Anselm,1
+Nicholas Wolterstorff,Averroes,1
+Nicholas Wolterstorff,William of Ockham,1
+Nicholas Wolterstorff,Thomas Aquinas,1
+Nicholas Wolterstorff,John Locke,1
+Nicholas Wolterstorff,Blaise Pascal,1
+Nicholas Wolterstorff,Baruch Spinoza,1
+Nicholas Wolterstorff,David Hume,1
+Nicholas Wolterstorff,Immanuel Kant,1
+Nicholas Wolterstorff,Gottlob Frege,1
+Nicholas Wolterstorff,William James,1
+Nicholas Wolterstorff,Karl Marx,1
+Nicholas Wolterstorff,Friedrich Nietzsche,1
+Nicholas Wolterstorff,Bertrand Russell,1
+Nicholas Wolterstorff,Ludwig Wittgenstein,1
+Nicholas Wolterstorff,Daniel Dennett,1
+Nicholas Wolterstorff,Peter van Inwagen,1
+Nicholas Wolterstorff,Alasdair MacIntyre,1
+Nicholas Wolterstorff,Alvin Plantinga,1
+Nicholas Wolterstorff,Karl Popper,1

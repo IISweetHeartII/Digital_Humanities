@@ -25,3 +25,5 @@
 ## 다음 단계
 
 - 최종 보고서 작성 및 분석 결과 해석
+
+- **계산 예정 공식**: `AdjustedCentrality = In-DegreeCentrality / log2(1+(2024-활동시기))`
